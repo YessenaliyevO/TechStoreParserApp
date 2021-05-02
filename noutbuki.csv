@@ -1,0 +1,961 @@
+,Name,Colour,Price in Rouble,Price in Tenge,Evaluation,In stock,Url
+0,ACER Aspire 3 A315-23-R5B8,серебристый,35990,215940,4.8,в 3 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-23-r5b8-ryzen-5-3500u-8gb-1tb-15-6-fhd-noos-1404159/
+1,LENOVO IdeaPad S340-15API,серый,30990,185940,4.9,в 43 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-15api-15-6-ips-amd-ryzen-3-3200u-2-6ggc-4g-1154363/
+2,LENOVO IdeaPad S340-14API,серый,32990,197940,4.7,в 17 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-14api-14-ips-amd-ryzen-3-3200u-2-6ggc-8gb-1153686/
+3,ACER Aspire 3 A315-23-R91S,черный,35990,215940,4.7,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-23-r91s-ryzen-5-3500u-8gb-1tb-15-6-fhd-noos-1404161/
+4,ACER Aspire 7 A715-75G-56ZT,черный,59990,359940,4.7,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-56zt-15-6-ips-intel-core-i5-9300h-2-4gg-1217407/
+5,HP 15s-fq2020ur,серый,34990,209940,4.8,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-fq2020ur-15-6-ips-intel-pentium-gold-7505-8gb-512gb-ssd-1442162/
+6,APPLE MacBook Air,серебристый,70990,425940,4.2,в 2 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-mqd32ru-a-13-3-intel-core-i5-5350u-1-8ggc-8g-484748/
+7,ASUS VivoBook E410MA-EB008T,синий,21990,131940,4.8,в 10 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-e410ma-eb008t-14-ips-intel-celeron-n4020-4gb-64g-1455149/
+8,ACER Aspire 7 A715-75G-73WN,черный,65990,395940,4.7,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-73wn-15-6-ips-intel-core-i7-9750h-2-6gg-1217393/
+9,LENOVO IP Gaming 3 15ARH05,синий,70990,425940,4.9,в 22 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15arh05-ryzen-7-4800h-16gb-ssd512gb-gtx-165-1399208/
+10,LENOVO IdeaPad S145-15API,черный,32990,197940,4.4,в 46 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15api-15-6-amd-ryzen-3-3200u-2-6ggc-8gb-25-1175019/
+11,LENOVO IP Gaming 3 15ARH05,черный,62990,377940,4.2,в 40 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-gaming-3-15arh05-ryzen-5-4600h-16gb-1tb-ssd256gb-gtx-16-1377515/
+12,MSI GF63 Thin 9SCSR-1027XRU,черный,67790,406740,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scsr-i5-9300h-8gb-1tb-ssd128gb-gtx-1650-ti-max-1403720/
+13,MSI GF63 Thin 9SCSR-1028XRU,черный,65790,394740,4.4,в 47 магазинах,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scsr-i5-9300h-8gb-ssd256gb-gtx-1650-ti-max-q-4g-1403717/
+14,ACER Aspire 7 A715-75G-74Z8,черный,67990,407940,5.0,в 8 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-74z8-15-6-ips-intel-core-i7-9750h-2-6gg-1217399/
+15,DIGMA EVE C406,черный,19990,119940,4.8,в 3 магазинах,https://www.citilink.ru/product/noutbuk-digma-eve-14-dlya-kanala-cel-n3350-4gb-ssd64gb-400-14-1-ips-fh-1406377/
+16,IRBIS NB NB550,синий,14990,89940,5.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-irbis-nb-nb550-13-3-ips-intel-celeron-n3350-3gb-32gb-ssd-intel-1438697/
+17,ASUS TUF Gaming FX505DT-HN507,темно-серый,57990,347940,4.3,в 3 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx505dt-hn507-ryzen-5-3550h-8gb-1tb-ssd256gb-g-1368927/
+18,APPLE MacBook Air,серый,84990,509940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-mwtj2ru-a-13-3-intel-core-i3-1-1ggc-8gb-256g-1375158/
+19,ASUS VivoBook A540BA-DM489,черный,23990,143940,3.7,в 8 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a540ba-dm489-15-6-amd-a4-9125-2-3ggc-4gb-1000gb-1184480/
+20,HP Pavilion Gaming 17-cd1016ur,черный/зеленый,83990,503940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1016ur-i5-10300h-16gb-1tb-gtx-1660-ti-1374975/
+21,ACER Aspire 7 A715-75G-51FE,черный,56990,341940,4.4,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-51fe-15-6-ips-intel-core-i5-9300h-2-4gg-1217408/
+22,ACER Aspire 3 A315-56-313U,черный,38990,233940,4.5,в 47 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-56-313u-15-6-intel-core-i3-1005g1-1-2ggc-8g-1200863/
+23,LENOVO IP Gaming 3 15ARH05,черный,56990,341940,4.6,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-gaming-3-15arh05-ryzen-5-4600h-8gb-1tb-ssd256gb-gtx-165-1377549/
+24,APPLE MacBook Pro M1 MYD82RU/A,серый космос,119990,719940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-13-3-ips-apple-m1-8gb-256gb-ssd-mac-os-myd82-1441994/
+25,LENOVO IdeaPad S145-15IIL,серый,29990,179940,5.0,в 47 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15iil-i3-1005g1-8gb-ssd128gb-15-6-tn-fhd-d-1399244/
+26,LENOVO IdeaPad S340-14IIL,синий,41990,251940,5.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-14iil-14-ips-intel-core-i5-1035g1-1-0ggc-8-1193950/
+27,ACER Aspire 7 A715-41G-R02Q,черный,59990,359940,4.7,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-41g-r02q-15-6-ips-amd-ryzen-7-3750h-2-3ggc-1217419/
+28,APPLE MacBook Air M1 MGN63RU/A,серый космос,96990,581940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-8gb-256gb-ssd-mac-os-mgn63-1441984/
+29,LENOVO Legion 5 15ARH05,черный,79990,479940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15arh05-ryzen-7-4800h-8gb-ssd512gb-gtx-1650-4g-1371943/
+30,ASUS VivoBook M433IA-EB071,черный,45490,272940,5.0,в 3 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-m433ia-eb071-ryzen-5-4500u-8gb-ssd512gb-14-ips-f-1378341/
+31,LENOVO IdeaPad 3 15IGL05,серый,27990,167940,5.0,в 44 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip3-15igl05-pen-n5030-16gb-ssd256gb-15-6-tn-hd-1408258/
+32,ASUS M509DA-BQ1090,серый,41990,251940,3.5,в 4 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1090-ryzen-5-3500u-8gb-1tb-ssd256gb-vega-8-15-6-1415734/
+33,ACER Aspire 7 A715-41G-R4HH,черный,64990,389940,5.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-41g-r4hh-15-6-amd-ryzen-5-3550h-2-1ggc-8gb-1217414/
+34,ACER Aspire 7 A715-41G-R7BA,черный,55990,335940,5.0,в 4 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-41g-r7ba-15-6-amd-ryzen-5-3550h-2-1ggc-8gb-1217423/
+35,ASUS M509DA-BQ484,серый,43990,263940,5.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq484-ryzen-7-3700u-8gb-ssd512gb-vega-10-15-6-ips-1415748/
+36,ACER Aspire 3 A317-32-P3DH,черный,25990,155940,5.0,в 7 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-32-p3dh-17-3-intel-pentium-silver-n5000-1-1-1194744/
+37,HP 15s-fq2018ur,серый,41990,251940,4.4,в 9 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-fq2018ur-15-6-ips-intel-core-i3-1115g4-8gb-512gb-ssd-in-1442130/
+38,MSI GF63 Thin 9SCSR-1026XRU,черный,74890,449340,4.0,в 49 магазинах,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scsr-dos-i7-9750h-8gb-ssd256gb-gtx-1650-ti-max-1403715/
+39,ACER Aspire 7 A715-75G-76LP,черный,73990,443940,4.8,в 3 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-76lp-15-6-ips-intel-core-i7-9750h-2-6gg-1217388/
+40,LENOVO IdeaPad S340-14IIL,серый,30990,185940,4.8,в 32 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-14iil-14-ips-intel-core-i3-1005g1-1-2ggc-8-1193949/
+41,LENOVO IP Gaming 3 15ARH05,черный,65990,395940,5.0,в 29 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15arh05-ryzen-5-4600h-16gb-ssd512gb-gtx-165-1416330/
+42,MSI GF63 Thin 9SCXR-611XRU,черный,69990,419940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scxr-i7-9750h-8gb-ssd256gb-gtx-1650-max-q-4gb-1-1385522/
+43,ACER Aspire 3 A315-57G-34ZN,черный,31990,191940,4.5,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-57g-34zn-i3-1005g1-4gb-ssd128gb-mx330-2gb-1-1404165/
+44,LENOVO Legion 5 15ARH05,черный,59990,359940,5.0,в 43 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15arh05-ryzen-5-4600h-8gb-ssd256gb-gtx-1650-4g-1408259/
+45,HP 15s-eq1194ur,синий,39990,239940,4.3,в 16 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-eq1194ur-15-6-ips-intel-core-i7-4500u-8gb-256gb-ssd-amd-1426369/
+46,ASUS VivoBook E410MA-EB268,синий,22990,137940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-e410ma-eb268-14-ips-intel-celeron-n4020-4gb-256g-1455151/
+47,ACER Aspire 5 A515-55-396T,черный,37990,227940,4.7,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-396t-15-6-ips-intel-core-i3-1005g1-1-2gg-1217607/
+48,LENOVO IdeaPad S340-15IIL,синий,34990,209940,4.3,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-15iil-15-6-ips-intel-core-i3-1005g1-1-2ggc-1193936/
+49,LENOVO Legion 5 15ARH05H,черный,95990,575940,4.4,в 7 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15arh05h-ryzen-5-4600h-16gb-ssd512gb-rtx-2060-1399227/
+50,HP 14s-fq0045ur,серебристый,41990,251940,4.5,в 7 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-fq0045ur-ryzen-5-4500u-16gb-ssd512gb-14-ips-fhd-dos3-0-1401479/
+51,ACER Aspire 7 A715-75G-73DV,черный,76990,461940,4.6,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-73dv-15-6-ips-intel-core-i7-9750h-2-6gg-1217403/
+52,HP Pavilion Gaming 17-cd1012ur,черный/зеленый,70990,425940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1012ur-i5-10300h-8gb-ssd512gb-gtx-1650-1374979/
+53,ACER Aspire 3 A315-23-R014,черный,39990,239940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-23-r014-ryzen-5-3500u-8gb-ssd512gb-vega-8-1-1372515/
+54,HP 14s-fq0046ur,серебристый,46990,281940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-fq0046ur-ryzen-5-4500u-16gb-ssd512gb-14-ips-fhd-w10-sil-1401483/
+55,ACER Aspire 7 A715-75G-77DE,черный,69990,419940,4.6,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-77de-15-6-ips-intel-core-i7-9750h-2-6gg-1217396/
+56,ACER Aspire 5 A515-55-35SW,черный,42990,257940,5.0,в 3 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-35sw-15-6-ips-intel-core-i3-1005g1-1-2gg-1217597/
+57,MSI GF63 Thin 9SCXR-613XRU,черный,59990,359940,4.7,в 1 магазине,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scxr-i5-9300h-8gb-ssd256gb-gtx-1650-max-q-4gb-1-1385531/
+58,HP Pavilion Gaming 15-ec1011ur,черный,59990,359940,4.9,в 35 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-ec1011ur-ryzen-5-4600h-8gb-ssd256gb-gtx-1375046/
+59,ASUS M509DA-BQ022T,серый,48990,293940,4.6,в 4 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq022t-ryzen-5-3500u-8gb-ssd512gb-vega-8-15-6-ips-1367021/
+60,ACER Aspire 3 A317-32-P6WW,черный,28990,173940,,в 12 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-32-p6ww-17-3-intel-pentium-silver-n5000-1-1-1194743/
+61,ASUS M509DA-BQ226T,серый,45990,275940,5.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq226t-15-6-ips-amd-ryzen-5-3500u-2-1ggc-8gb-1000g-1185002/
+62,APPLE MacBook Air M1,серебристый,98990,593940,5.0,в 4 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-8gb-256gb-ssd-mac-os-mgn93-1441987/
+63,LENOVO IdeaPad S145-15API,черный,34990,209940,4.5,в 45 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15api-15-6-amd-ryzen-5-3500u-2-1ggc-8gb-10-1175130/
+64,LENOVO IP Gaming 3 15IMH05,синий,70590,423540,4.0,в 8 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-gaming-3-15imh05-i5-10300h-16gb-ssd512gb-gtx-1650-ti-4g-1377545/
+65,ASUS M509DA-BQ1093,серый,36990,221940,3.0,в 31 магазине,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1093-ryzen-3-3250u-8gb-ssd512gb-15-6-ips-fhd-noo-1415759/
+66,MSI GF63 Thin 9SCSR-899XRU,черный,79990,479940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scxr-899xru-i7-9750h-16gb-ssd512gb-gtx-1650-ti-1403198/
+67,LENOVO Legion 5 15ARH05,черный,65990,395940,4.9,в 44 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15arh05-ryzen-5-4600h-8gb-ssd256gb-gtx-1650-4g-1371942/
+68,ASUS VivoBook E410MA-EB023T,синий,28590,171540,5.0,в 14 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-e410ma-eb023t-14-intel-pentium-silver-n5030-4gb-1455127/
+69,APPLE MacBook Pro M1 MYDA2RU/A,серебристый,119990,719940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-13-3-ips-apple-m1-8gb-256gb-ssd-mac-os-myda2-1441995/
+70,ACER Aspire 3 A315-23-R605,черный,37990,227940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-23-r605-ryzen-5-3500u-8gb-1tb-ssd128gb-vega-1372512/
+71,HP 17-by4006ur,серебристый,45990,275940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-17-by4006ur-17-3-ips-intel-core-i3-1115g4-8gb-512gb-ssd-int-1442301/
+72,ASUS M509DA-BQ1081T,серый,39990,239940,,в 25 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1081t-ryzen-3-3250u-8gb-ssd256gb-15-6-ips-fhd-w1-1415758/
+73,DIGMA EVE 10 C301,черный,12990,77940,4.7,в 3 магазинах,https://www.citilink.ru/product/noutbuk-digma-eve-10-dlya-kanala-cel-n3450-3gb-ssd32gb-400-10-1-ips-hd-1406387/
+74,ASUS VivoBook A512JF-BQ059T,серый,55990,335940,4.6,в 32 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a512jf-bq059t-i5-1035g1-8gb-ssd256gb-mx130-2gb-1-1366956/
+75,ASUS M509DA-BQ1083,серый,29990,179940,,в 32 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1083-ryzen-3-3250u-4gb-ssd256gb-15-6-ips-fhd-noo-1415753/
+76,HP 250 G7,серебристый,47290,283740,3.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-250-g7-i5-1035g1-8gb-ssd512gb-dvdrw-mx110-2gb-15-6-sva-fhd-1398138/
+77,HP 250 G7,серебристый,55390,332340,4.5,в 9 магазинах,https://www.citilink.ru/product/noutbuk-hp-250-g7-i5-1035g1-16gb-ssd512gb-dvdrw-15-6-sva-fhd-dos3-0-si-1392838/
+78,APPLE MacBook Air M1 MGND3RU/A,золотой,97990,587940,5.0,в 6 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-8gb-256gb-ssd-mac-os-mgnd3-1441988/
+79,LENOVO IdeaPad S340-14IIL,серый,52990,317940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-14iil-14-ips-intel-core-i5-1035g1-1-0ggc-8-1358797/
+80,ACER Aspire 3 A315-56-38MN,черный,34990,209940,4.0,в 3 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-56-38mn-15-6-intel-core-i3-1005g1-1-2ggc-8g-1194671/
+81,ASUS VivoBook M433IA-EB575T,черный,55990,335940,5.0,в 18 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-m433ia-eb575t-ryzen-5-4500u-16gb-ssd512gb-14-ips-1378356/
+82,HP 250 G7,темно-серебристый,45990,275940,3.8,в 4 магазинах,https://www.citilink.ru/product/noutbuk-hp-250-g7-i5-1035g1-16gb-ssd512gb-dvdrw-15-6-sva-fhd-dos3-0-si-1398141/
+83,ASUS M509DA-BQ233T,серый,42990,257940,4.4,в 6 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq233t-15-6-ips-amd-ryzen-5-3500u-2-1ggc-8gb-256gb-1185007/
+84,ASUS M509DA-BQ233,серый,39990,239940,5.0,в 17 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq233-ryzen-5-3500u-8gb-ssd256gb-vega-8-15-6-ips-f-1415741/
+85,ACER Nitro 5 AN515-55-53TJ,черный,78990,473940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-53tj-i5-10300h-8gb-ssd512gb-gtx-1660-ti-1372673/
+86,HP Pavilion Gaming 17-cd1013ur,черный/зеленый,72990,437940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1013ur-i5-10300h-8gb-1tb-gtx-1650-ti-4-1374978/
+87,ASUS VivoBook A512JF-BQ057,серый,51990,311940,5.0,в 7 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a512jf-bq057-i5-1035g1-8gb-ssd512gb-mx130-2gb-15-1366958/
+88,HP Pavilion Gaming 15-ec1014ur,черный,61990,371940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-ec1014ur-ryzen-5-4600h-16gb-ssd512gb-gtx-1375041/
+89,ACER Aspire 7 A715-41G-R7VF,черный,61990,371940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-41g-r7vf-15-6-amd-ryzen-5-3550h-2-1ggc-8gb-1217412/
+90,ACER Nitro 5 AN517-52-53QQ,черный,81990,491940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an517-52-53qq-i5-10300h-8gb-ssd512gb-gtx-1660-ti-1372408/
+91,ACER Aspire 5 A515-55-585U,черный,47990,287940,4.5,в 7 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-585u-15-6-ips-intel-core-i5-1035g1-1-0gg-1217621/
+92,ASUS M509DJ-BQ084T,серый,45990,275940,4.8,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-m509dj-bq084t-ryzen-5-3500u-8gb-500gb-ssd128gb-mx230-2gb-1198303/
+93,ACER Nitro 5 AN515-44-R7A6,черный,74990,449940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-44-r7a6-ryzen-5-4600h-8gb-ssd256gb-gtx-1650-1372677/
+94,LENOVO IdeaPad S145-15API,черный,34990,209940,4.4,в 38 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15api-15-6-amd-ryzen-5-3500u-2-1ggc-8gb-51-1175025/
+95,ASUS VivoBook M433IA-EB003,белый,48990,293940,3.7,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m433ia-eb003-ryzen-5-4500u-8gb-ssd512gb-14-ips-f-1378344/
+96,HP 15s-fq2019ur,синий,32990,197940,4.4,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-15s-fq2019ur-15-6-ips-intel-pentium-gold-7505-8gb-512gb-ssd-1442158/
+97,ACER Aspire 7 A715-41G-R75P,черный,59990,359940,4.7,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-41g-r75p-15-6-amd-ryzen-5-3550h-2-1ggc-8gb-1217422/
+98,ACER Aspire 3 A317-32-P8YZ,черный,33990,203940,5.0,в 12 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-32-p8yz-17-3-intel-pentium-silver-n5000-1-1-1194745/
+99,HP Pavilion Gaming 15-ec1012ur,черный,58990,353940,4.7,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-ec1012ur-ryzen-5-4600h-16gb-ssd256gb-gtx-1375045/
+100,APPLE MacBook Air M1,серебристый,111990,671940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-8gb-512gb-ssd-mac-os-z1270-1451528/
+101,HP 15-da3034ur,черный,49990,299940,3.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-15-da3034ur-i5-1035g1-8gb-ssd512gb-15-6-ips-fhd-w10-black-1402314/
+102,HP Omen 17-cb1028ur,черный,107990,647940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-omen-17-cb1028ur-i5-10300h-16gb-ssd512gb-rtx-2060-6gb-17-3-1401745/
+103,ACER Aspire 3 A314-22-A7K7,черный,23990,143940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a314-22-a2dq-athlon-3020e-4gb-ssd128gb-14-fhd-no-1372366/
+104,MSI GF63 Thin 9SCXR-442XRU,черный,64990,389940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scxr-442xru-i5-9300h-8gb-ssd512gb-gtx-1650-max-1383846/
+105,LENOVO IdeaPad S145-15IIL,черный,31990,191940,5.0,в 49 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15iwl-i3-1005g1-4gb-ssd512gb-15-6-tn-fhd-d-1361782/
+106,ASUS VivoBook M413DA-EB328T,белый,44990,269940,5.0,в 21 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m413da-eb328t-ryzen-5-3500u-8gb-ssd256gb-14-ips-1416050/
+107,APPLE MacBook Air M1,серый космос,111990,671940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-8gb-512gb-ssd-mac-os-z1240-1451527/
+108,HP 14s-dq1042ur,серебристый,38990,233940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq1042ur-i5-1035g1-8gb-ssd256gb-14-ips-fhd-dos3-0-silve-1401448/
+109,ASUS M509DA-BQ022,серый,39990,239940,4.5,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq022-ryzen-5-3500u-8gb-ssd512gb-vega-8-15-6-ips-f-1415739/
+110,HP 14s-fq0043ur,черный,27990,167940,5.0,в 29 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-fq0043ur-ryzen-3-3250u-4gb-ssd256gb-14-ips-fhd-dos3-0-b-1401455/
+111,APPLE MacBook Pro M1 MYD92RU/A,серый космос,139990,839940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-13-3-ips-apple-m1-8gb-512gb-ssd-mac-os-myd92-1441999/
+112,ASUS A516JA-BQ463,серый,35990,215940,,в 10 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-bq463-15-ips-intel-core-i3-1005g1-8gb-256-1454566/
+113,MSI Modern 14 B10MW-038XRU,черный,62990,377940,4.7,в 8 магазинах,https://www.citilink.ru/product/noutbuk-msi-modern-14-ab10mw-i7-10510u-8gb-ssd256gb-14-ips-fhd-dos-bla-1385534/
+114,APPLE MacBook Pro M1 MYDC2RU/A,серебристый,136990,821940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-13-3-ips-apple-m1-8gb-512gb-ssd-mac-os-mydc2-1441997/
+115,LENOVO IdeaPad L340-17IRH,черный,60990,365940,4.0,в 44 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-17irh-i5-9300hf-16gb-ssd256gb-gtx-1650-4gb-1216444/
+116,ASUS Zenbook UM425IA-AM008T,серый,79990,479940,4.4,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-zenbook-um425ia-am008t-ryzen-7-4700u-16gb-ssd512gb-14-fhd-1416092/
+117,ASUS VivoBook M433IA-EB576,белый,49990,299940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-m433ia-eb576-ryzen-5-4500u-16gb-ssd512gb-14-ips-1378358/
+118,ACER Nitro 5 AN515-44-R93W,черный,85990,515940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-44-r93w-ryzen-7-4800h-16gb-ssd512gb-gtx-165-1372678/
+119,LENOVO IdeaPad L340-15IRH,черный,56990,341940,4.9,в 22 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15irh-i5-9300hf-8gb-ssd256gb-gtx-1650-4gb-1216438/
+120,Ноутбук-трансформер HP Envy x360 15-ee0006ur,темно-серый,66990,401940,4.5,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-envy-x360-15-ee0006ur-ryzen-5-4500u-16gb-ssd512gb-15-6-ips-1382685/
+121,ASUS VivoBook M433IA-EB071T,черный,48990,293940,4.5,в 25 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-m433ia-eb071t-ryzen-5-4500u-8gb-ssd512gb-14-ips-1378342/
+122,ASUS Zenbook UM425IA-AM007T,серый,67990,407940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-zenbook-um425ia-am007t-ryzen-7-4700u-8gb-ssd512gb-14-fhd-1416090/
+123,ASUS VivoBook M413DA-EB005,черный,39990,239940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m413da-eb005-ryzen-5-3500u-8gb-ssd256gb-14-ips-f-1416026/
+124,ASUS M509DA-BQ1116,серый,49990,299940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1116-ryzen-7-3700u-16gb-ssd512gb-vega-10-15-6-ip-1415746/
+125,ACER Aspire 7 A715-41G-R6B9,черный,67290,403740,4.8,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-41g-r6b9-15-6-ips-amd-ryzen-7-3750h-2-3ggc-1217416/
+126,ASUS VivoBook D712DK-AU059,серебристый,50990,305940,4.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-d712dk-au059-17-3-ips-amd-ryzen-3-3200u-8gb-512gb-ssd-amd-1436595/
+127,ASUS M509DA-BQ1122,серый,43990,263940,5.0,в 9 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1122-ryzen-7-3700u-8gb-1tb-ssd128gb-vega-10-15-6-1415750/
+128,LENOVO IP Gaming 3 15ARH05,черный,73990,443940,5.0,в 15 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-gaming-3-15arh05-ryzen-7-4800h-16gb-ssd512gb-gtx-1650-4-1377534/
+129,LENOVO IdeaPad S340-15API,синий,57990,347940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-15api-15-6-ips-amd-ryzen-7-3700u-2-3ggc-12-1154367/
+130,ASUS VivoBook E410MA-EB338,синий,27190,163140,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-e410ma-eb338-14-intel-pentium-silver-n5030-4gb-2-1455132/
+131,ASUS VivoBook X515MA-BQ137,серый,29990,179940,,в 12 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-x515ma-bq137-15-6-intel-pentium-silver-n5030-8gb-1443392/
+132,HP 14s-dq2010ur,черный,34990,209940,5.0,в 34 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2010ur-14-ips-intel-pentium-gold-7505-8gb-512gb-ssd-i-1441873/
+133,HP Pavilion Gaming 17-cd1015ur,черный/зеленый,76990,461940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1015ur-i5-10300h-8gb-ssd512gb-gtx-1650-1374976/
+134,APPLE MacBook Air M1,серый космос,114990,689940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-256gb-ssd-mac-os-z124-1451522/
+135,HP 250 G7,темно-серебристый,52990,317940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-250-g7-i5-1035g1-8gb-ssd512gb-mx110-2gb-15-6-sva-fhd-w10plh-1398144/
+136,LENOVO IP Gaming 3 15IMH05,черный,70990,425940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-gaming-3-15imh05-i5-10300h-8gb-ssd512gb-gtx-1650-ti-4gb-1377552/
+137,MSI GF63 Thin 9SCSR-1412XRU,черный,65990,395940,5.0,в 8 магазинах,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scsr-1412xru-15-6-ips-intel-core-i5-9300h-8gb-1-1439760/
+138,MSI GL75 Leopard 10SDK-252XRU,черный,98990,593940,4.3,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl75-leopard-10sdk-252xru-i7-10750h-8gb-ssd512gb-gtx-1660-1383649/
+139,ASUS M509DJ-BQ085,серый,35990,215940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-m509dj-bq085-ryzen-5-3500u-4gb-ssd256gb-mx230-2gb-15-6-ip-1198304/
+140,PRESTIGIO SmartBook 141С5,темно-серый,21590,129540,4.9,в 1 магазине,https://www.citilink.ru/product/noutbuk-prestigio-smartbook-141s5-14-1-intel-celeron-n3350-4gb-intel-h-1458091/
+141,ASUS VivoBook A512JF-BQ058,серый,50990,305940,4.5,в 9 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a512jf-bq058-i5-1035g1-8gb-1tb-ssd128gb-mx130-2g-1367015/
+142,LENOVO IdeaPad L340-15API,серый,46590,279540,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15api-15-6-amd-ryzen-5-3500u-2-1ggc-8gb-25-1143939/
+143,ACER Aspire 1 A114-32-C5QD,синий,20990,125940,,в 48 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-1-a114-32-c5qd-14-intel-celeron-n4000-4gb-intel-uh-1486367/
+144,HP 15-da3013ur,черный,37990,227940,5.0,в 24 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da3013ur-i3-1005g1-8gb-ssd512gb-15-6-ips-fhd-dos3-0-blac-1402251/
+145,HP Pavilion 14-dv0030ur,серебристый,40740,244440,4.5,в 12 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-14-dv0030ur-14-ips-intel-core-i3-1115g4-8gb-256gb-1441534/
+146,HP Pavilion Gaming 17-cd1009ur,черный/зеленый,59990,359940,4.0,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1009ur-i5-10300h-8gb-ssd256gb-gtx-1650-1374982/
+147,ASUS M509DA-BQ608,серый,43990,263940,5.0,в 9 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq608-ryzen-5-3500u-16gb-ssd512gb-vega-8-15-6-ips-1415738/
+148,ACER Aspire 5 A515-55-529X,черный,50990,305940,4.3,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-529x-15-6-ips-intel-core-i5-1035g1-1-0gg-1217620/
+149,HP 15s-eq1193ur,серебристый,45990,275940,5.0,в 14 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-eq1193ur-ryzen-5-4500u-8gb-ssd256gb-15-6-ips-fhd-dos3-0-1402444/
+150,ACER Aspire 5 A515-55-55V2,черный,46990,281940,4.2,в 8 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-55v2-15-6-ips-intel-core-i5-1035g1-1-0gg-1217611/
+151,ACER Aspire 7 A715-75G-76UA,черный,76990,461940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-76ua-i7-9750h-8gb-ssd256gb-gtx-1650-ti-1217402/
+152,Ноутбук-трансформер HP Envy x360 15-ee0000ur,темно-серый,59990,359940,4.2,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-envy-x360-15-ee0000ur-ryzen-5-4500u-8gb-ssd256gb-15-6-ips-t-1382641/
+153,MSI GL75 Leopard 10SDK-476XRU,черный,86990,521940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl75-leopard-10sdk-476xru-i5-10300h-8gb-1tb-ssd256gb-gtx-1-1418663/
+154,LENOVO IdeaPad S145-15IIL,серый,36990,221940,4.1,в 49 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15iil-15-6-intel-core-i5-1035g1-1ggc-8gb-1-1193897/
+155,ASUS TUF Gaming FX505DT-HN507T,темно-серый,65490,392940,3.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx505dt-hn507t-ryzen-5-3550h-8gb-1tb-ssd256gb-1368928/
+156,ASUS M509DA-BQ1123,серый,49990,299940,,в 8 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1123-ryzen-7-3700u-16gb-1tb-ssd128gb-vega-10-15-1415744/
+157,ACER Nitro 5 AN515-55-73W5,черный,74490,446940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-73w5-i7-10750h-8gb-ssd512gb-gtx-1650-4gb-1372671/
+158,HP 15s-fq1102ur,серый,41990,251940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-15s-fq1102ur-i3-1005g1-8gb-ssd256gb-15-6-ips-fhd-w10-grey-1402255/
+159,HP Pavilion Gaming 17-cd1052ur,черный/зеленый,84990,509940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1052ur-i5-10300h-16gb-ssd512gb-gtx-166-1412164/
+160,APPLE MacBook Air M1,серебристый,136990,821940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-512gb-ssd-mac-os-z127-1451533/
+161,HP Pavilion Gaming 17-cd1010ur,черный/зеленый,65990,395940,5.0,в 4 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1010ur-i5-10300h-8gb-ssd512gb-gtx-1650-1374981/
+162,ACER Aspire 3 A315-57G-32S8,черный,44990,269940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-57g-32s8-i3-1005g1-8gb-ssd256gb-mx330-2gb-1-1404170/
+163,ACER Aspire 5 A515-44G-R1ZD,черный,54990,329940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-44g-r1zd-ryzen-7-4700u-8gb-ssd512gb-rx640-2-1372506/
+164,LENOVO IP Gaming 3 15IMH05,синий,67590,405540,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15imh05-i5-10300h-8gb-ssd512gb-gtx-1650-ti-1373907/
+165,APPLE MacBook Pro MXK52RU/A,темно-серый,127990,767940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-mxk52ru-a-13-3-ips-intel-core-i5-1-4ggc-8gb-1375996/
+166,LENOVO IdeaPad 5 14IIL05,серый,51790,310740,4.7,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14iil05-i5-1035g1-8gb-ssd512gb-14-ips-fhd-n-1209426/
+167,ACER Nitro 5 AN517-52-79W6,черный,97990,587940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an517-52-79w6-i7-10750h-16gb-ssd512gb-gtx-1660-ti-1372411/
+168,LENOVO IdeaPad L340-17IRH,черный,58990,353940,,в 46 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-17irh-i5-9300hf-8gb-ssd512gb-gtx-1650-4gb-1399216/
+169,LENOVO IP Gaming 3 15IMH05,синий,76990,461940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-gaming-3-15imh05-i5-10300h-16gb-ssd512gb-gtx-1650-ti-4g-1377538/
+170,ACER Aspire 3 A317-32-C2GY,черный,30590,183540,,в 32 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-32-c2gy-17-3-intel-celeron-n4020-4gb-1000gb-1438409/
+171,APPLE MacBook Pro M1 Z11C0002Z,серый космос,165990,995940,5.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-13-3-ips-apple-m1-16gb-512gb-ssd-mac-os-z11c-1450580/
+172,ACER Aspire 5 A514-53-51AZ,черный,43990,263940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a514-53-51az-i5-1035g1-8gb-1tb-14-ips-fhd-noos-b-1404279/
+173,ASUS M509DA-BQ1089,серый,34990,209940,,в 17 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1089-ryzen-5-3500u-4gb-ssd256gb-vega-8-15-6-ips-1415735/
+174,APPLE MacBook Pro,темно-серый,109990,659940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-mxk32ru-a-13-3-ips-intel-core-i5-1-4ggc-8gb-1375995/
+175,HP 15s-fq1033ur,серый,47990,287940,5.0,в 32 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-fq1033ur-i5-1035g1-16gb-ssd256gb-15-6-ips-fhd-w10-grey-1210762/
+176,ASUS VivoBook E410MA-EK467T,черный,20990,125940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-e410ma-ek467t-14-intel-celeron-n4020-4gb-64gb-ss-1455146/
+177,ACER Nitro 5 AN515-55-70H2,черный,89990,539940,4.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-70h2-i7-10750h-16gb-ssd512gb-gtx-1650-ti-1372679/
+178,ACER Aspire 3 A315-57G-55YD,черный,47990,287940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-57g-55yd-i5-1035g1-8gb-1tb-ssd128gb-mx330-2-1404235/
+179,ACER Aspire 5 A514-53-504D,черный,46990,281940,5.0,в 7 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a514-53-504d-i5-1035g1-8gb-ssd512gb-14-ips-fhd-n-1404289/
+180,ASUS TUF Gaming FX706LI-H7009,серый,73990,443940,4.0,в 3 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx706li-h7009-i5-10300h-8gb-ssd512gb-gtx-1650-1415435/
+181,ACER Aspire 3 A317-52-30X2,черный,41990,251940,5.0,в 25 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-30x2-i3-1005g1-8gb-ssd512gb-17-3-ips-fhd-1372354/
+182,DELL Inspiron 3583,черный,25990,155940,,в 35 магазинах,https://www.citilink.ru/product/noutbuk-dell-inspiron-3583-15-6-intel-celeron-4205u-4gb-128gb-ssd-inte-1455897/
+183,LENOVO Legion 5 15IMH05H,черный,104990,629940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15imh05h-i7-10750h-8gb-ssd512gb-rtx-2060-6gb-1-1399235/
+184,ASUS Zenbook UX325JA-EG035T,серый,67990,407940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-ux325ja-eg035t-i5-1035g1-8gb-ssd512gb-13-3-ips-f-1367028/
+185,APPLE MacBook Air M1,серебристый,114990,689940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-256gb-ssd-mac-os-z127-1451532/
+186,ACER Aspire 3 A314-22-A5LQ,черный,28990,173940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a314-22-a5lq-athlon-3020e-4gb-500gb-14-fhd-w10-b-1372358/
+187,ACER Aspire 5 A515-55-59LK,черный,43990,263940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-59lk-15-6-ips-intel-core-i5-1035g1-1-0gg-1217608/
+188,HP Pavilion Gaming 15-dk1045ur,черный,96990,581940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1045ur-i7-10750h-16gb-ssd512gb-gtx-166-1403042/
+189,DELL Inspiron 3793,черный,52990,317940,2.3,в 2 магазинах,https://www.citilink.ru/product/noutbuk-dell-inspiron-3793-17-3-ips-intel-core-i5-1035g1-1-0ggc-8gb-25-1179859/
+190,APPLE MacBook Pro,серый,265990,1595940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-z0y0005wa-16-ips-intel-core-i9-9980hk-2-3ggc-1390607/
+191,HP Pavilion Gaming 17-cd1011ur,черный/зеленый,64990,389940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1011ur-i5-10300h-8gb-1tb-gtx-1650-4gb-1374980/
+192,ASUS M515DA-BQ438T,серый,36990,221940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq438t-15-ips-amd-ryzen-5-3500u-4gb-256gb-1454666/
+193,ASUS M515DA-BQ439,серый,36990,221940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq439-15-ips-amd-ryzen-5-3500u-8gb-512gb-1454662/
+194,ASUS M515DA-BQ058,серый,36990,221940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq058-15-ips-amd-ryzen-5-3500u-8gb-256gb-1454660/
+195,DELL Vostro 3501,серый,36990,221940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-dell-vostro-3501-15-6-intel-core-i3-1005g1-8gb-256gb-ssd-intel-1452125/
+196,HP 17-by4008ur,черный,36990,221940,3.5,в 24 магазинах,https://www.citilink.ru/product/noutbuk-hp-17-by4008ur-17-3-intel-core-i3-1115g4-8gb-256gb-ssd-intel-u-1442308/
+197,ACER Aspire 3 A317-33-C4TP,серебристый,36990,221940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-33-c4tp-17-3-intel-celeron-n4500-8gb-128gb-1438424/
+198,HP 15-da2016ur,черный,36990,221940,,в 30 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2016ur-15-6-ips-intel-core-i3-10110u-8gb-1000gb-128gb-1423185/
+199,ASUS M509DA-BQ1093,серый,36990,221940,3.0,в 31 магазине,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1093-ryzen-3-3250u-8gb-ssd512gb-15-6-ips-fhd-noo-1415759/
+200,ACER Aspire 3 A317-52-348E,черный,36990,221940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-348e-i3-1005g1-4gb-ssd128gb-17-3-hd-w10-1404104/
+201,ACER Aspire 3 A315-23-R316,черный,36990,221940,4.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-23-r316-ryzen-5-3500u-4gb-ssd256gb-vega-8-1-1372484/
+202,ACER Aspire 5 A515-55-35GS,черный,36990,221940,4.8,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-35gs-15-6-ips-intel-core-i3-1005g1-1-2gg-1217595/
+203,LENOVO IdeaPad S340-14API,серый,36990,221940,4.8,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-14api-ryzen-3-3200u-8gb-ssd128gb-vega-3-14-1214771/
+204,LENOVO IdeaPad S145-15IIL,серый,36990,221940,4.1,в 49 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15iil-15-6-intel-core-i5-1035g1-1ggc-8gb-1-1193897/
+205,LENOVO IdeaPad S145-15API,серый,36990,221940,5.0,в 48 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15api-15-6-amd-ryzen-5-3500u-2-1ggc-4gb-25-1175018/
+206,LENOVO V130-15IKB,темно-серый,37430,224580,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-v130-15ikb-i3-8130u-4gb-ssd256gb-dvdrw-620-15-6-tn-fhd-1414390/
+207,HP 15-da2021ur,черный,37590,225540,,в 30 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2021ur-15-6-ips-intel-core-i3-10110u-8gb-500gb-intel-u-1423194/
+208,DELL Vostro 3500,черный,37990,227940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-15-6-intel-core-i3-1115g4-8gb-256gb-ssd-intel-1476965/
+209,ASUS A516JA-BQ510T,серый,37990,227940,,в 25 магазинах,https://www.citilink.ru/product/noutbuk-asus-a516ja-bq510t-15-6-ips-intel-core-i3-1005g1-1-2ggc-4gb-25-1473695/
+210,DELL Vostro 3501,серый,37990,227940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-dell-vostro-3501-15-6-intel-core-i3-1005g1-4gb-256gb-ssd-intel-1452140/
+211,ASUS Pro P2540FA-DM0281,серебристый,37990,227940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p2540fa-dm0281-15-6-intel-core-i3-10110u-8gb-256gb-ss-1450382/
+212,ACER Aspire 3 A317-52-39PE,черный,37990,227940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-39pe-17-3-intel-core-i3-1005g1-4gb-256gb-1438405/
+213,ACER Aspire 3 A314-22-R38F,черный,37990,227940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a314-22-r38f-14-amd-ryzen-3-3250u-8gb-256gb-ssd-1438026/
+214,HP 15-da2030ur,черный,37990,227940,,в 19 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2030ur-15-6-intel-core-i5-10210u-8gb-1000gb-intel-uhd-1423245/
+215,ACER Aspire 5 A515-55G-32D3,черный,37990,227940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55g-32d3-i3-1005g1-8gb-ssd256gb-mx350-2gb-1-1404257/
+216,HP 15-da3013ur,черный,37990,227940,5.0,в 24 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da3013ur-i3-1005g1-8gb-ssd512gb-15-6-ips-fhd-dos3-0-blac-1402251/
+217,HP 14s-dq1031ur,черный,37990,227940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-14s-dq1031ur-i3-1005g1-8gb-ssd256gb-14-ips-fhd-dos-black-1401441/
+218,LENOVO IdeaPad S145-15IIL,серый,37990,227940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15iil-i3-1005g1-8gb-1tb-ssd128gb-15-6-tn-f-1397501/
+219,ACER Aspire 3 A315-23-R605,черный,37990,227940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-23-r605-ryzen-5-3500u-8gb-1tb-ssd128gb-vega-1372512/
+220,ACER Aspire 5 A515-55-396T,черный,37990,227940,4.7,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-396t-15-6-ips-intel-core-i3-1005g1-1-2gg-1217607/
+221,LENOVO IdeaPad S145-15IIL,серый,37990,227940,4.3,в 36 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15iil-15-6-intel-core-i5-1035g1-1ggc-4gb-2-1193911/
+222,HP 15-da2024ur,серебристый,38090,228540,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2024ur-15-6-ips-intel-core-i3-10110u-8gb-500gb-intel-u-1423202/
+223,ACER Aspire 3 A317-32-P8G6,черный,38170,229020,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-32-p8g6-pen-n5030-8gb-ssd512gb-620-17-3-hd-1407639/
+224,LENOVO V145-15AST,черный,38300,229800,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-v145-15ast-15-6-amd-a9-9425-4gb-128gb-ssd-amd-radeon-r4-1426380/
+225,ASUS VivoBook E410MA-EB338T,синий,38500,231000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-e410ma-eb338t-pen-n5030-4gb-ssd256gb-605-14-ips-1483232/
+226,HP 15-da2020ur,черный,38590,231540,,в 8 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2020ur-15-6-ips-intel-core-i3-10110u-8gb-1000gb-intel-1423199/
+227,ACER Aspire 3 A315-57G-3832,черный,38590,231540,2.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-57g-3832-i3-1005g1-8gb-1tb-mx330-2gb-15-6-h-1404168/
+228,ACER Aspire 3 A315-23-R461,черный,38590,231540,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-23-r461-ryzen-3-3250u-8gb-ssd256gb-15-6-fhd-1404153/
+229,ASUS VivoBook X543MA-GQ1139T,серый,38590,231540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-x543ma-gq1139t-pen-n5030-4gb-ssd256gb-605-15-6-h-1381323/
+230,DELL Vostro 3500,черный,38990,233940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-i3-1115g4-4gb-1tb-15-6-hd-w10h-black-1477372/
+231,ASUS Pro P1440FA-FQ2931,серый,38990,233940,,в 19 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p1440fa-fq2931-14-intel-core-i3-10110u-8gb-256gb-ssd-1464447/
+232,HP 15-da2031ur,черный,38990,233940,5.0,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2031ur-15-6-ips-intel-core-i5-10210u-8gb-500gb-intel-u-1426185/
+233,HP 14s-dq1042ur,серебристый,38990,233940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq1042ur-i5-1035g1-8gb-ssd256gb-14-ips-fhd-dos3-0-silve-1401448/
+234,LENOVO IdeaPad S145-15IIL,серый,38990,233940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15iil-i3-1005g1-4gb-ssd256gb-15-6-tn-fhd-w-1397502/
+235,ACER Aspire 3 A315-56-313U,черный,38990,233940,4.5,в 47 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-56-313u-15-6-intel-core-i3-1005g1-1-2ggc-8g-1200863/
+236,ASUS Pro P1440FA-FQ2924T,серый,39190,235140,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p1440fa-fq2924t-14-intel-core-i3-10110u-4gb-1000gb-ss-1462946/
+237,HP 15-da2023ur,серебристый,39490,236940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2023ur-15-6-ips-intel-core-i3-10110u-8gb-1000gb-intel-1423204/
+238,HP 250 G7,темно-серебристый,39560,237360,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-250-g7-pen-n5030-8gb-ssd256gb-15-6-fhd-dos-dk-silver-1483205/
+239,LENOVO V145-15AST,черный,39790,238740,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-v145-15ast-15-6-amd-a6-9225-8gb-256gb-ssd-amd-radeon-r4-1426375/
+240,LENOVO IdeaPad S145-15API,серый,40990,245940,,в 49 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15api-15-6-amd-ryzen-5-3500u-8gb-512gb-ssd-1449346/
+241,HP Pavilion Gaming 15-ec1015ur,черный,59990,359940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-ec1015ur-ryzen-5-4600h-8gb-ssd256gb-gtx-1375038/
+242,ACER Aspire 3 A315-42-R90P,черный,42990,257940,4.6,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-42-r90p-15-6-amd-ryzen-7-3700u-2-3ggc-8gb-5-1170056/
+243,ACER Nitro 5 AN515-44-R01R,черный,79990,479940,4.8,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-44-r01r-ryzen-7-4800h-16gb-ssd512gb-gtx-165-1372682/
+244,LENOVO IdeaPad S540-14API,серый,49490,296940,4.6,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s540-14api-14-ips-amd-ryzen-5-3500u-2-1ggc-8gb-1175038/
+245,ACER Swift 3 SF314-42-R24N,серебристый,49990,299940,5.0,в 2 магазинах,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-42-r24n-ryzen-5-4500u-8gb-ssd256gb-14-ips-1374481/
+246,HP Pavilion Gaming 15-ec1063ur,черный,75990,455940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-ec1063ur-ryzen-7-4800h-8gb-ssd512gb-gtx-1402871/
+247,ACER Swift 3 SF314-42-R420,серебристый,52990,317940,5.0,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-42-r420-ryzen-5-4500u-8gb-ssd512gb-14-ips-1374478/
+248,HP 15s-eq1000ur,белый,32990,197940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-15s-eq1000ur-ryzen-3-3250u-4gb-ssd256gb-vega-15-6-ips-fhd-w-1210791/
+249,LENOVO Yoga S940-14IIL,серый,153990,923940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-yoga-s940-14iil-14-ips-intel-core-i5-1035g4-1-1ggc-16gb-1180544/
+250,HP Omen 15-en0033ur,темно-серый,80810,484860,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-omen-15-en0033ur-ryzen-5-4600h-16gb-ssd512gb-gtx-1650-ti-4g-1402468/
+251,Ноутбук-трансформер HP Envy x360 15-ee0002ur,темно-серый,73990,443940,5.0,в 8 магазинах,https://www.citilink.ru/product/noutbuk-hp-envy-x360-15-ee0002ur-ryzen-7-4700u-16gb-ssd512gb-15-6-ips-1382687/
+252,LENOVO IdeaPad S340-15IIL,серый,41990,251940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-15iil-i3-1005g1-8gb-ssd256gb-15-6-ips-fhd-1358808/
+253,HUAWEI MateBook D 16 HVY-WAP9,серый,71990,431940,,в 14 магазинах,https://www.citilink.ru/product/noutbuk-huawei-matebook-d-16-hvy-wap9-ryzen-5-4600h-8gb-ssd512gb-16-1-1484265/
+254,ACER Nitro 5 AN515-44-R06E,черный,92990,557940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-44-r06e-ryzen-7-4800h-16gb-ssd1tb-gtx-1650-1409149/
+255,LENOVO IdeaPad L340-15API,черный,36330,217980,4.9,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15api-15-6-amd-athlon-300u-2-4ggc-4gb-256g-1170570/
+256,LENOVO IdeaPad L340-15API,черный,43490,260940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15api-15-6-amd-ryzen-5-3500u-2-1ggc-4gb-25-1143941/
+257,LENOVO IdeaPad L340-15API,серый,34990,209940,4.3,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15api-15-6-amd-ryzen-5-3500u-2-1ggc-4gb-12-1143940/
+258,LENOVO IdeaPad 5 14ARE05,синий,49990,299940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14are05-ryzen-3-4300u-8gb-ssd512gb-14-ips-f-1373611/
+259,ASUS VivoBook E402YA-FA031T,темно-синий,20990,125940,4.5,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-e402ya-fa031t-e2-7015-4gb-emmc64gb-r2-14-1-fhd-w-1369281/
+260,ASUS VivoBook X415JA-EB236,серый,29990,179940,,в 34 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-x415ja-eb236-14-ips-intel-core-i3-1005g1-8gb-256-1454639/
+261,LENOVO IdeaPad S340-15API,серый,44990,269940,4.9,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-15api-15-6-ips-amd-ryzen-3-3200u-2-6ggc-8g-1358815/
+262,HONOR MagicBook Pro HLYL-WFQ9,серый,74990,449940,5.0,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-honor-magicbook-pro-hlyl-wfq9-ryzen-5-4600h-16gb-ssd512gb-14-1411752/
+263,HP 14s-dq2006ur,серебристый,40990,245940,4.0,в 34 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2006ur-14-ips-intel-core-i3-1115g4-8gb-512gb-ssd-inte-1441643/
+264,LENOVO Yoga Slim7 14ARE05,бордовый,75490,452940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-yoga-slim7-14are05-ryzen-5-4600u-16gb-ssd512gb-14-ips-f-1388381/
+265,ASUS Pro P5440FA-BM1029,серый,54990,329940,4.5,в 4 магазинах,https://www.citilink.ru/product/noutbuk-asus-expertbook-p5440fa-bm1029-i5-8265u-8gb-ssd512gb-620-14-fh-1375437/
+266,ASUS ROG GA401IU-HE188T,серый,115990,695940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-rog-ga401iu-he188t-ryzen-7-4800h-8gb-ssd512gb-gtx-1660-ti-1374909/
+267,ACER Swift 3 SF314-42-R7GQ,серебристый,60990,365940,5.0,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-42-r7gq-ryzen-7-4700u-8gb-ssd512gb-14-ips-1374450/
+268,Ноутбук-трансформер ASUS Zenbook UM462DA-AI010T,серебристый,57990,347940,4.8,в 1 магазине,https://www.citilink.ru/product/noutbuk-transformer-asus-zenbook-um462da-ai010t-14-amd-ryzen-5-3500u-2-1200976/
+269,HAIER A1400ED,черный,18990,113940,5.0,в 6 магазинах,https://www.citilink.ru/product/noutbuk-haier-a1400ed-cel-n3350-4gb-emmc64gb-14-1-tn-hd-dos-black-1473486/
+270,MSI GE66 Raider 10SE-672XRU,черный,119990,719940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-msi-ge66-raider-10se-672xru-15-6-intel-core-i7-10750h-8gb-512g-1462960/
+271,ASUS M515DA-BQ438,серый,33990,203940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq438-15-ips-amd-ryzen-5-3500u-4gb-256gb-1454664/
+272,LENOVO Legion 5 15IMH05H,черный,109990,659940,5.0,в 8 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15imh05h-i7-10750h-16gb-ssd512gb-gtx-1660-ti-6-1399238/
+273,ASUS VivoBook M433IA-EB003T,белый,52490,314940,4.7,в 17 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-m433ia-eb003t-ryzen-5-4500u-8gb-ssd512gb-14-ips-1378347/
+274,LENOVO IdeaPad S145-15IIL,серый,37990,227940,4.3,в 36 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15iil-15-6-intel-core-i5-1035g1-1ggc-4gb-2-1193911/
+275,HONOR MagicBook 14 2021,серый,64990,389940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-honor-magicbook-14-2021-i5-1135g7-8gb-ssd512gb-14-ips-fhd-w10-1499420/
+276,HUAWEI MateBook D 15 BoB-WAH9P,серый,69990,419940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-huawei-matebook-d-15-bob-wah9p-i5-10210u-16gb-ssd512gb-15-6-ip-1498889/
+277,DIGMA EVE 10 A201,черный,14290,85740,5.0,в 48 магазинах,https://www.citilink.ru/product/noutbuk-digma-eve-10ka-windows-10-1-ips-intel-atom-x5-z8350-2gb-64gb-s-1442097/
+278,LENOVO Thinkbook 13s G2 ITL,серый,79990,479940,4.5,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-13s-g2-itl-13-3-intel-core-i5-1135g7-2-4ggc-1-1424549/
+279,ASUS Zenbook UX393EA-HK001T,черный,129990,779940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux393ea-hk001t-i7-1165g7-16gb-ssd1000gb-620-13-9-1410976/
+280,LENOVO IP Gaming 3 15ARH05,синий,69990,419940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15arh05-ryzen-5-4600h-16gb-ssd512gb-gtx-165-1397374/
+281,ACER Swift 3 SF314-42-R4RZ,серебристый,56990,341940,5.0,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-42-r4rz-ryzen-5-4500u-8gb-ssd256gb-14-ips-1374480/
+282,ACER Swift 3 SF314-42-R7PA,серебристый,78990,473940,5.0,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-42-r7pa-ryzen-7-4700u-16gb-ssd1tb-14-ips-f-1374439/
+283,ACER Aspire 7 A715-41G-R1JL,черный,64990,389940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-41g-r1jl-15-6-ips-amd-ryzen-7-3750h-2-3ggc-1217410/
+284,APPLE MacBook Pro MVVK2RU/A,серый,247990,1487940,5.0,в 7 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-mvvk2ru-a-16-ips-intel-core-i9-9880h-2-3ggc-1202859/
+285,DELL Vostro 5391,серый,48990,293940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5391-13-3-ips-intel-core-i5-10210u-1-6ggc-8gb-256g-1179737/
+286,ASUS ROG Zephyrus G15 GA503QM-HQ095,серый,144990,869940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-ga503qm-hq095-15-6-ips-amd-ryzen-7-5800hs-16gb-1454545/
+287,ASUS TUF Gaming FX516PM-HN025T,серый,121990,731940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx516pm-hn025t-15-6-ips-intel-core-i7-11370h-1-1454533/
+288,HONOR MagicBook 15 2021,серый,74990,449940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-honor-magicbook-15-2021-i5-1135g7-16gb-ssd512gb-15-6-fhd-w10-1499422/
+289,PRESTIGIO SmartBook 133C4,серебристый,21590,129540,4.3,в 6 магазинах,https://www.citilink.ru/product/noutbuk-prestigio-smartbook-133c4-a4-9120e-4gb-emmc64gb-r3-14-1-tn-hd-1497175/
+290,HP Omen 15-en1028ur,темно-серебристый,175990,1055940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-omen-15-en1028ur-ryzen-7-5800h-16gb-ssd1tb-rtx-3070-8gb-15-1475712/
+291,Ноутбук-трансформер HP Spectre x360 13-aw2021ur,серебристый,139990,839940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-x360-13-aw2021ur-13-3-ips-intel-core-i7-1165g7-16gb-1443795/
+292,MSI Creator 15M A10SD-642RU,серый,114990,689940,4.7,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-creator-15m-a10sd-642ru-i7-10750h-16gb-ssd512gb-gtx-1660-t-1386157/
+293,ACER Swift 3 SF314-42-R3YT,серебристый,70990,425940,5.0,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-42-r3yt-ryzen-7-4700u-16gb-ssd1tb-14-ips-f-1374444/
+294,ACER Nitro 5 AN517-52-58Y5,черный,59990,359940,3.8,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an517-52-58y5-i5-10300h-8gb-ssd256gb-gtx-1650-4gb-1372396/
+295,ACER Aspire 5 A515-55-35GS,черный,36990,221940,4.8,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-35gs-15-6-ips-intel-core-i3-1005g1-1-2gg-1217595/
+296,DELL Inspiron 3793,черный,67990,407940,4.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-inspiron-3793-17-3-ips-intel-core-i5-1035g1-1-0ggc-8gb-25-1179882/
+297,Ноутбук-трансформер ASUS Zenbook Flip UX563FD-EZ008T,серый,94990,569940,5.0,в 1 магазине,https://www.citilink.ru/product/transformer-asus-zenbook-ux563fd-ez008t-i5-10210u-8gb-ssd512gb-gtx-105-1179283/
+298,ACER Nitro 5 AN515-54-50RB0,черный,78990,473940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-54-50rb0-i5-9300h-8gb-ssd512gb-rtx-2060-6gb-1409078/
+299,ASUS ROG Zephyrus G14 GA401QM-HZ087T,серый,159990,959940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-ga401qm-hz087t-14-ips-amd-ryzen-9-5900hs-16gb-1454547/
+300,HUAWEI MateBook D 14 NbB-WAH9P,серый,69990,419940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-huawei-matebook-d-14-nbb-wah9p-i5-10210u-16gb-ssd512gb-14-ips-1498892/
+301,HP Omen 15-ek1013ur,черный,166990,1001940,4.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-omen-15-ek1013ur-i7-10750h-16gb-ssd1tb-rtx-3070-8gb-15-6-ip-1475813/
+302,HP 14s-fq0089ur,черный,26490,158940,,в 42 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-fq0089ur-ath-gl-3150u-4gb-ssd128gb-14-ips-fhd-w10-black-1473914/
+303,ASUS TUF Gaming FX506LH-HN002,серый,64990,389940,5.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx506lh-hn002-15-6-intel-core-i5-10300h-2-5ggc-1473751/
+304,HAIER U1500HD,черный,24990,149940,3.7,в 5 магазинах,https://www.citilink.ru/product/noutbuk-haier-u1500hd-cel-n4000-4gb-1tb-emmc64gb-15-6-ips-fhd-dos-blac-1473545/
+305,MSI Bravo 15 A4DDR-400XRU,черный,76990,461940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-bravo-15-a4ddr-400xru-15-6-ips-amd-ryzen-7-4800h-8gb-512gb-1467468/
+306,HONOR MagicBook Pro HBB-WAH9PHNL,серебристый,89990,539940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-honor-magicbook-pro-hbb-wah9phnl-16-1-ips-intel-core-i5-10210u-1444671/
+307,HP 15s-eq1189ur,серебристый,43990,263940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-eq1189ur-15-6-ips-intel-core-i7-4500u-8gb-256gb-ssd-amd-1426371/
+308,LENOVO Legion 7 15IMH05,серый,130990,785940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-legion-7-15imh05-i7-10750h-16gb-ssd512gb-rtx-2060-6gb-1-1377793/
+309,LENOVO IdeaPad S340-14API,серый,36990,221940,4.8,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-14api-ryzen-3-3200u-8gb-ssd128gb-vega-3-14-1214771/
+310,ASUS Zenbook UX434FAC-A6313R,серебристый,99990,599940,4.0,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-asus-zenbook-ux434fac-a6313r-14-ips-intel-core-i7-10510u-1-8g-1203726/
+311,ASUS VivoBook X509JA-EJ028,серый,47990,287940,4.6,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-x509ja-ej028-i5-1035g1-8gb-ssd256gb-15-6-fhd-end-1198682/
+312,LENOVO IdeaPad S145-15IIL,серый,41990,251940,4.7,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s145-15iil-15-6-intel-core-i5-1035g1-1ggc-8gb-1-1193908/
+313,LENOVO Thinkbook 13s-IML,серый,72030,432180,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-13s-iml-13-3-ips-intel-core-i7-10510u-1-8ggc-1186808/
+314,MSI Prestige 15 A10SC-213RU,серый,105990,635940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-prestige-15-a10sc-213ru-15-6-ips-intel-core-i5-10210u-1-6g-1185142/
+315,ASUS ROG G513QM-HN169,серый,134490,806940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-g513qm-hn169-15-6-ips-amd-ryzen-7-5800h-16gb-1-1454531/
+316,HP 14s-fq0091ur,черный,23990,143940,,в 47 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-fq0091ur-ath-gl-3150u-4gb-ssd256gb-14-ips-fhd-dos3-0-bl-1473910/
+317,HP 17-by4000ur,серебристый,74990,449940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-17-by4000ur-17-3-ips-intel-core-i7-1165g7-16gb-512gb-ssd-in-1442322/
+318,HONOR MagicBook 14 2021,серый,84990,509940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-honor-magicbook-14-2021-i7-1165g7-16gb-ssd512gb-14-ips-fhd-w1-1499415/
+319,IRBIS NB NB69,белый,14990,89940,,в 48 магазинах,https://www.citilink.ru/product/noutbuk-irbis-nb-nb69-atom-z3735f-2gb-ssd32gb-13-3-ips-touch-fhd-w10-w-1499216/
+320,HP Pavilion Gaming 15-dk1022ur,черный,69990,419940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1022ur-i5-10300h-8gb-ssd256gb-gtx-1660-1489877/
+321,XIAOMI Mi RedmiBook,серебристый,64990,389940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-xiaomi-mi-redmibook-14-ips-intel-core-i5-1035g1-8gb-512gb-ssd-1459034/
+322,ASUS VivoBook A516MA-EJ106T,серый,26990,161940,,в 38 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ma-ej106t-15-intel-celeron-n4020-4gb-128gb-s-1455155/
+323,ASUS VivoBook M513IA-BQ592T,черный,65990,395940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m513ia-bq592t-15-6-ips-amd-ryzen-7-4700u-16gb-51-1455125/
+324,ASUS Zenbook UX325EA-KG268,серый,56990,341940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux325ea-kg268-13-intel-core-i3-1115g4-8gb-512gb-s-1454761/
+325,ASUS Expertbook P1510CDA-BQ1053,черный,29990,179940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-expertbook-p1510cda-bq1053-15-6-ips-amd-athlon-silver-305-1450253/
+326,HP 17-by4007ur,черный,43990,263940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-17-by4007ur-17-3-intel-core-i3-1115g4-8gb-256gb-ssd-intel-u-1442304/
+327,HP 17-by4005ur,серебристый,54990,329940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-17-by4005ur-17-3-ips-intel-core-i3-1115g4-8gb-512gb-ssd-int-1442299/
+328,DIGMA EVE 14 C411,темно-серый,21990,131940,5.0,в 48 магазинах,https://www.citilink.ru/product/noutbuk-digma-eve-14-windows-14-1-ips-intel-celeron-n3350-4gb-128gb-ss-1442113/
+329,APPLE MacBook Air M1 MGNA3RU/A,серебристый,117990,707940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-8gb-512gb-ssd-mac-os-mgna3-1441990/
+330,APPLE MacBook Air M1 MGNE3RU/A,золотой,117990,707940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-8gb-512gb-ssd-mac-os-mgne3-1441989/
+331,LENOVO IdeaPad 3 15IIL05,серый,29990,179940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip3-15iil05-i3-1005g1-4gb-ssd128gb-15-6-ips-fhd-1416344/
+332,ACER Swift 3 SF314-59-782E,серебристый,74990,449940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-59-782e-i7-1165g7-16gb-ssd512gb-14-ips-fhd-1415934/
+333,HP Omen 17-cb1030ur,черный,129990,779940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-omen-17-cb1030ur-i7-10750h-16gb-1tb-ssd512gb-rtx-2060-6gb-1-1401991/
+334,HP Pavilion Gaming 17-cd1062ur,черный/зеленый,104990,629940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1062ur-i7-10750h-16gb-1tb-rtx-2060-6gb-1401838/
+335,HP Pavilion Gaming 17-cd1059ur,черный/зеленый,97990,587940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1059ur-i7-10750h-16gb-ssd512gb-rtx-206-1401834/
+336,LENOVO Legion 5 17ARH05H,черный,94590,567540,3.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-17arh05h-ryzen-7-4800h-16gb-ssd1tb-gtx-1660-ti-1399243/
+337,HP 250 G7,темно-серебристый,32990,197940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-250-g7-pen-n5030-8gb-ssd256gb-dvdrw-15-6-sva-fhd-dos2-0-sil-1398129/
+338,MSI GL65 Leopard 10SCSR-051XRU,черный,81990,491940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl65-leopard-10scsr-051xru-i7-10750h-8gb-1tb-ssd128gb-gtx-1386189/
+339,MSI GE66 Raider 10SGS-254RU,черный,185990,1115940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-ge66-raider-10sgs-254ru-i7-10875h-16gb-ssd1tb-rtx-2080-sup-1383843/
+340,LENOVO IdeaPad 3 15ARE05,серый,42990,257940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip3-15are05-ryzen-3-4300u-8gb-ssd256gb-15-6-ips-1373865/
+341,ACER Nitro 5 AN515-55-547E,черный,66990,401940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-547e-i5-10300h-8gb-ssd512gb-gtx-1650-ti-1372672/
+342,HP ProBook 430 G7,серебристый,56990,341940,4.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-probook-430-g7-i5-10210u-16gb-ssd256gb-13-3-uwva-fhd-dos3-0-1216418/
+343,HP 15s-eq1005ur,серый,39990,239940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-eq1005ur-ryzen-3-3250u-16gb-ssd256gb-vega-15-6-ips-fhd-1210798/
+344,Ноутбук-трансформер LENOVO Yoga C940-15IRH,серый,211690,1270140,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-transformer-lenovo-yoga-c940-15irh-15-6-ips-intel-core-i7-9750-1180534/
+345,LENOVO IdeaPad L340-15API,черный,39990,239940,4.5,в 3 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15api-15-6-amd-ryzen-3-3200u-2-6ggc-4gb-25-1143937/
+346,HONOR MagicBook 15,серебристый,64990,389940,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-honor-magicbook-15-ryzen-7-3700u-16gb-ssd512gb-15-6-fhd-w10-s-1499429/
+347,HP 14s-fq0090ur,черный,25990,155940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-14s-fq0090ur-ath-sil-3050u-8gb-ssd256gb-14-ips-fhd-dos3-0-b-1473897/
+348,ASUS M515DA-BQ440,серый,45990,275940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq440-15-ips-amd-ryzen-5-3500u-16gb-1000g-1454674/
+349,ASUS ROG Strix SCAR 17 G733QM-HG028,черный,153490,920940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-g733qm-hg028-15-6-ips-amd-ryzen-7-5800h-16gb-5-1454524/
+350,ASUS A516JA-EJ677,серый,23990,143940,,в 43 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-ej677-15-intel-pentium-6805-4gb-128gb-ssd-1455237/
+351,ASUS ROG Zephyrus G14 GA401QM-HZ086T,серый,145990,875940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-ga401qm-hz086t-14-amd-ryzen-7-5800hs-16gb-512g-1454542/
+352,HP 14s-dq0045ur,черный,25990,155940,,в 48 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq0045ur-pen-n5030-8gb-ssd256gb-14-ips-fhd-dos3-0-black-1474185/
+353,HP 17-by4009ur,серебристый,69990,419940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-17-by4009ur-17-3-ips-intel-core-i5-1135g7-16gb-512gb-ssd-nv-1442320/
+354,HP 17-by4001ur,серебристый,64990,389940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-17-by4001ur-17-3-ips-intel-core-i5-1135g7-8gb-512gb-ssd-nvi-1442309/
+355,HP 15s-fq2017ur,синий,40990,245940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-fq2017ur-15-6-ips-intel-core-i3-1115g4-8gb-512gb-ssd-in-1442132/
+356,ASUS ROG G533QM-HF063T,черный,159990,959940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-g533qm-hf063t-15-6-ips-amd-ryzen-7-5800h-16gb-1454526/
+357,HP Pavilion 15-eg0058ur,серебристый,79990,479940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-15-eg0058ur-15-6-ips-intel-core-i7-1165g7-16gb-512-1442243/
+358,HP Pavilion 14-dv0036ur,золотистый,54990,329940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-14-dv0036ur-14-ips-intel-core-i5-1135g7-16gb-512gb-1441897/
+359,MSI Modern 14 B4MW-417XRU,серый,48990,293940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-msi-modern-14-b4mw-417xru-ryzen-5-4500u-8gb-ssd256gb-14-ips-fh-1498875/
+360,GIGABYTE Aorus 5 KB-7RU1130SH,черный,125990,755940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-gigabyte-aorus-5-kb-7ru1130sh-i7-10750h-16gb-ssd512gb-rtx-2060-1485602/
+361,HP 255 G7,темно-серебристый,35990,215940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-255-g7-15-6-amd-athlon-gold-3150u-8gb-256gb-ssd-free-dos-3-1475840/
+362,HP 14s-fq0087ur,черный,29990,179940,,в 34 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-fq0087ur-athlon-3020e-8gb-ssd256gb-14-sva-fhd-w10-black-1473848/
+363,ASUS VivoBook A516MA-EJ206T,серый,28990,173940,,в 14 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ma-ej206t-15-6-intel-celeron-n4020-1-1ggc-4g-1473753/
+364,ASUS TUF Gaming FX706LI-H7041T,серый,81990,491940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx706li-h7041t-17-3-intel-core-i5-10300h-2-5gg-1473721/
+365,LENOVO IdeaPad 3 17ADA05,синий,49590,297540,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-3-17ada05-17-3-amd-ryzen-3-3250u-2-6ggc-8gb-256-1471313/
+366,MSI GS66 Stealth 10UH-451RU,черный,299990,1799940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-msi-gs66-stealth-10uh-451ru-15-6-intel-core-i7-10870h-32gb-2tb-1467333/
+367,MSI GS75 Stealth 10SE-1021XRU,черный,129990,779940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gs75-stealth-10se-1021xru-17-3-ips-intel-core-i7-10750h-16-1462956/
+368,XIAOMI Redmibook Air,серебристый,79990,479940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-xiaomi-redmibook-air-13-3-ips-intel-core-i5-10210u-16gb-512gb-1459008/
+369,HP Pavilion Gaming 17-cd1088ur,черный/зеленый,79990,479940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1088ur-17-3-ips-intel-core-i5-10300h-1-1457546/
+370,HP Pavilion Gaming 15-dk1095ur,черный,66990,401940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1095ur-15-6-ips-intel-core-i5-10300h-8-1457538/
+371,ASUS VivoBook A512JA-BQ127T,серый,55990,335940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a512ja-bq127t-15-ips-intel-core-i5-1035g1-8gb-51-1454784/
+372,ASUS M515DA-BQ439,серый,36990,221940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq439-15-ips-amd-ryzen-5-3500u-8gb-512gb-1454662/
+373,ASUS M515DA-BQ058,серый,36990,221940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq058-15-ips-amd-ryzen-5-3500u-8gb-256gb-1454660/
+374,DELL Vostro 3400,черный,44990,269940,5.0,в 6 магазинах,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i5-1135g7-8gb-256gb-ssd-intel-i-1452060/
+375,XIAOMI Mi RedmiBook,серебристый,70610,423660,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-xiaomi-mi-redmibook-13-3-ips-intel-core-i7-10510u-8gb-512gb-ss-1450412/
+376,ACER Nitro 5 AN515-44-R2JY,черный,79990,479940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-44-r2jy-15-6-ips-amd-ryzen-7-4800h-8gb-1000-1449562/
+377,ASUS Expertbook B9400CEA-KC0062R,черный,136890,821340,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-expertbook-b9400cea-kc0062r-14-ips-intel-core-i7-1165g7-1-1449431/
+378,HP Omen 17-cb1055ur,черный,115990,695940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-omen-17-cb1055ur-17-3-ips-intel-core-i5-10300h-16gb-512gb-s-1444152/
+379,Ноутбук-трансформер HP Envy x360 15-ed1016ur,темно-серый,89990,539940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-envy-x360-15-ed1016ur-15-6-ips-intel-core-i5-1135g7-8gb-512-1443922/
+380,HP Pavilion 15-eg0057ur,темно-бирюзовый,70990,425940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-15-eg0057ur-15-6-ips-intel-core-i5-1135g7-16gb-512-1442237/
+381,HP Pavilion 15-eg0055ur,серебристый,66990,401940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-15-eg0055ur-15-6-ips-intel-core-i5-1135g7-8gb-512g-1442233/
+382,HP Pavilion 15-eg0047ur,темно-бирюзовый,54990,329940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-15-eg0047ur-15-6-ips-intel-core-i3-1115g4-8gb-512g-1442215/
+383,Ноутбук-трансформер HP Pavilion x360 14-dw1007ur,зеленый,63990,383940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-x360-14-dw1007ur-14-ips-intel-core-i5-1135g7-8gb-2-1441911/
+384,Ноутбук-трансформер HP Pavilion x360 14-dw1004ur,зеленый,40990,245940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-x360-14-dw1004ur-14-intel-pentium-gold-7505-4gb-12-1441910/
+385,Ноутбук-трансформер HP Pavilion x360 14-dw1005ur,серебристый,53990,323940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-x360-14-dw1005ur-14-ips-intel-core-i3-1115g4-8gb-2-1441587/
+386,ACER Aspire 1 A114-33-C28Z,серебристый,23590,141540,,в 34 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-1-a114-33-c28z-14-intel-celeron-n4500-8gb-128gb-em-1439574/
+387,ACER Aspire 1 A114-33-C4BL,серебристый,22490,134940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-1-a114-33-c4bl-14-intel-celeron-n4500-4gb-64gb-emm-1439560/
+388,ACER Aspire 1 A115-32-C066,серебристый,21990,131940,5.0,в 9 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-1-a115-32-c066-15-6-intel-celeron-n4500-4gb-64gb-e-1439504/
+389,ACER Aspire 3 A314-35-C0K7,серебристый,24990,149940,5.0,в 8 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a314-35-c0k7-14-intel-celeron-n4500-4gb-256gb-ss-1438233/
+390,HP 15-da2044ur,серебристый,42990,257940,,в 10 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2044ur-15-6-intel-core-i5-10210u-16gb-256gb-ssd-intel-1423253/
+391,HP 15-da2042ur,серебристый,44990,269940,,в 10 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2042ur-15-6-intel-core-i5-10210u-8gb-512gb-ssd-intel-u-1423247/
+392,HP 15-da2029ur,серебристый,31990,191940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2029ur-15-6-ips-intel-core-i3-10110u-8gb-500gb-intel-u-1423131/
+393,DELL Inspiron 3501,черный,40990,245940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-dell-inspiron-3501-i3-1005g1-8gb-ssd256gb-15-6-wva-fhd-w10-bla-1419900/
+394,DELL Inspiron 3501,черный,34990,209940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-dell-inspiron-3501-i3-1005g1-4gb-1tb-15-6-wva-fhd-w10-black-1419896/
+395,MSI GL75 Leopard 10SCSR-045XRU,черный,88590,531540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl75-leopard-10scsr-045xru-i7-10750h-8gb-1tb-ssd256gb-gtx-1418657/
+396,LENOVO IdeaPad 5 14ITL05,серый,67990,407940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip-5-14itl05-i5-1135g7-16gb-ssd512gb-14-ips-fhd-1416408/
+397,LENOVO IdeaPad 5 15ARE05,серый,50990,305940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-15are05-ryzen-3-4300u-8gb-ssd512gb-15-6-ips-1416377/
+398,LENOVO IdeaPad 5 14ARE05,серый,73690,442140,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14are05-ryzen-7-4700u-16gb-ssd512gb-14-ips-1416366/
+399,LENOVO IdeaPad 3 15IIL05,серый,42990,257940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip3-15iil05-i3-1005g1-8gb-ssd512gb-15-6-ips-fhd-1416360/
+400,LENOVO IdeaPad 3 15IIL05,серый,33990,203940,,в 14 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip3-15iil05-i3-1005g1-8gb-ssd128gb-15-6-ips-fhd-1416355/
+401,ASUS VivoBook X571LI-BQ165,черный,71990,431940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-x571li-bq165-i5-10300h-16gb-ssd512gb-gtx-1650-ti-1416055/
+402,LENOVO IdeaPad 5 14IIL05,серый,44990,269940,,в 9 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14iil05-i3-1005g1-8gb-ssd256gb-14-ips-fhd-w-1415963/
+403,ASUS TUF Gaming FX506LI-HN039T,серый,76990,461940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx506lh-hn002t-i5-10300h-8gb-ssd512gb-gtx-1650-1415391/
+404,ASUS VivoBook S333JQ-EG008,черный/серый,59990,359940,3.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-s333jq-eg008-i5-1035g1-8gb-ssd512gb-mx350-13-3-ips-fhd-no-1414348/
+405,ASUS ROG GX701LXS-HG068T,черный,239990,1439940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-rog-gx701lxs-hg068t-i7-10875h-16gb-ssd1tb-rtx-2070-super-1411199/
+406,ASUS Zenbook UX325EA-AH029T,серый,59990,359940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux325ea-ah029t-i3-1115g4-8gb-ssd256gb-13-3-ips-fh-1410954/
+407,ACER Nitro 5 AN515-55-51L7,черный,77990,467940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-51l7-i5-10300h-8gb-ssd512gb-gtx-1650-ti-1409192/
+408,DELL G7 7700,черный,148520,891120,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g7-7700-i7-10750h-16gb-ssd1tb-rtx-2070-max-q-8gb-17-3-ips-1404622/
+409,ACER Aspire 3 A315-23-R6QY,серебристый,33990,203940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-23-r6qy-ryzen-3-3250u-8gb-1tb-15-6-fhd-noos-1404143/
+410,Ноутбук-трансформер HP ProBook x360 435 G7,серебристый,74990,449940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-probook-x360-435-g7-ryzen-7-4700u-8gb-ssd256gb-13-3-uwva-to-1403614/
+411,HP Omen 15-ek0045ur,черный,159990,959940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-omen-15-ek0045ur-i7-10750h-32gb-ssd1000gb-rtx-2070-8gb-15-6-1403088/
+412,HP Pavilion Gaming 15-dk1046ur,черный,97990,587940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1046ur-i7-10750h-16gb-ssd512gb-rtx-206-1403043/
+413,HP Pavilion Gaming 15-dk1036ur,черный,69990,419940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1036ur-i5-10300h-16gb-ssd512gb-gtx-165-1402288/
+414,HP Omen 17-cb1032ur,черный,139990,839940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-omen-17-cb1032ur-i7-10750h-16gb-1tb-ssd512gb-rtx-2060-6gb-1-1401995/
+415,HP Pavilion Gaming 17-cd1063ur,черный/зеленый,106990,641940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1063ur-i7-10750h-16gb-ssd512gb-rtx-206-1401841/
+416,HP 14s-fq0044ur,черный,30990,185940,,в 12 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-fq0044ur-ryzen-3-3250u-4gb-ssd256gb-14-ips-fhd-w10-blac-1401457/
+417,ASUS VivoBook M570DD-DM179T,черный,59990,359940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-m570dd-dm179t-ryzen-5-3500u-6gb-ssd512gb-gtx-105-1400188/
+418,LENOVO IP Gaming 3 15ARH05,черный,74990,449940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15arh05-ryzen-5-4600h-8gb-ssd512gb-gtx-1650-1397425/
+419,LENOVO ThinkPad X13 G1 T,черный,84990,509940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkpad-x13-amd-g1-t-ryzen-5-pro-4650u-8gb-ssd512gb-13-1394913/
+420,DELL XPS 17,серебристый,230990,1385940,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-dell-xps-17-i7-10875h-16gb-ssd1tb-rtx-2060-6gb-17-wva-touch-u-1392452/
+421,HP ZBook Firefly 14 G7,серый,100690,604140,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-zbook-firefly-14-g7-i7-10510u-16gb-ssd512gb-14-fhd-dos-1392150/
+422,LENOVO Yoga Slim7 14ARE05,серый,90990,545940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-yoga-slim7-14are05-ryzen-7-4700u-16gb-ssd512gb-14-ips-f-1388422/
+423,MSI GL65 Leopard 10SDK-407XRU,черный,83190,499140,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl65-leopard-10sdrk-dos-i5-10300h-8gb-ssd512gb-gtx-1660-ti-1386472/
+424,HP 255 G7,темно-серебристый,47990,287940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-255-g7-ryzen-5-3500u-8gb-ssd256gb-15-6-sva-fhd-dos2-0-1382566/
+425,APPLE MacBook Pro MWP42RU/A,темно-серый,165990,995940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-mwp42ru-a-13-3-ips-intel-core-i5-2-0ggc-16gb-1376000/
+426,ASUS VivoBook A512JA-BQ127,серый,48990,293940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a512ja-bq127-i5-1035g1-8gb-ssd512gb-15-6-ips-fhd-1375351/
+427,ASUS Zenbook UX325JA-EG109T,серый,65990,395940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-ux325ja-eg109t-i5-10210u-8gb-ssd256gb-13-3-fhd-w-1374847/
+428,LENOVO Legion 5 17IMH05,черный,91890,551340,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-17imh-i5-10300h-16gb-ssd512gb-gtx-1650-ti-4gb-1372634/
+429,ACER Aspire 5 A515-44-R02Y,черный,51990,311940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-44-r02y-ryzen-7-4700u-8gb-ssd512gb-15-6-ips-1372505/
+430,ASUS VivoBook A712FB-AU418T,серебристый,56990,341940,4.3,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-a712fb-au418t-i5-10210u-8gb-ssd512gb-mx110-2gb-1-1367040/
+431,LENOVO Thinkbook 14-IIL,серый,59990,359940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-14-iil-i7-1065g7-8gb-ssd256gb-14-ips-fhd-noos-1216741/
+432,HP ProBook 450 G7,серебристый,70990,425940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-probook-450-g7-i5-10210u-8gb-ssd256gb-15-6-uwva-fhd-w10pro6-1216431/
+433,HP ProBook 440 G7,серебристый,53990,323940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-probook-440-g7-i5-10210u-8gb-ssd256gb-14-uwva-fhd-dos-1215400/
+434,APPLE MacBook Pro MVVL2RU/A,серебристый,214990,1289940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-mvvl2ru-a-16-ips-intel-core-i7-9750h-2-6ggc-1204395/
+435,APPLE MacBook Pro MVVJ2RU/A,серый,214990,1289940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-mvvj2ru-a-16-ips-intel-core-i7-9750h-2-6ggc-1204391/
+436,APPLE MacBook Pro MVVM2RU/A,серебристый,249990,1499940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-mvvm2ru-a-16-ips-intel-core-i9-9880h-2-3ggc-1202858/
+437,ACER Aspire 3 A315-56-53W1,черный,41990,251940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-56-53w1-15-6-intel-core-i5-1035g1-1ggc-8gb-1194679/
+438,Ноутбук-трансформер ACER ConceptD 9 Pro CN917-71P-98EN,черный,545990,3275940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-conceptd-9-pro-cn917-71p-98en-core-i9-9980hk-32gb-ssd1tb-1170649/
+439,ACER Aspire 5 A517-52-30KQ,серебристый,47390,284340,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a517-52-30kq-17-3-ips-intel-core-i3-1115g4-8gb-2-1439612/
+440,HP ZBook Firefly 14 G8,серый,124990,749940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-zbook-firefly-14-g8-i7-1165g7-16gb-ssd512gb-14-fhd-w10pro64-1493562/
+441,DELL Vostro 5402,серый,73300,439800,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5402-i7-1165g7-16gb-ssd512gb-mx330-2gb-14-fhd-lin-1479900/
+442,HP 14s-dq0046ur,белый,25990,155940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-14s-dq0046ur-pen-n5030-4gb-ssd256gb-14-ips-fhd-dos3-0-white-1474148/
+443,Ноутбук-трансформер HP Spectre x360 14-ea0014ur,черный,106990,641940,,в 346 пунктов,https://www.citilink.ru/product/transformer-hp-spectre-x360-14-ea0014ur-i5-1135g7-8gb-ssd512gb-13-5-ip-1473853/
+444,HP 14s-fq0097ur,черный,24990,149940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-14s-fq0097ur-ath-sil-3050u-4gb-ssd128gb-14-ips-fhd-w10-blac-1473252/
+445,ASUS M515DA-BQ203T,серый,60390,362340,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-m515da-bq203t-15-6-ips-amd-ryzen-7-3700u-16gb-512gb-ssd-a-1455122/
+446,ASUS M515DA-BQ442,серый,52990,317940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-m515da-bq442-15-6-ips-amd-ryzen-7-3700u-16gb-1000gb-256gb-1455118/
+447,ASUS M515DA-BQ203,серый,48990,293940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-m515da-bq203-15-6-ips-amd-ryzen-7-3700u-16gb-512gb-ssd-am-1455117/
+448,ASUS M515DA-BQ207,серый,44990,269940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq207-15-ips-amd-ryzen-5-3500u-16gb-512gb-1454673/
+449,ASUS A516JA-BQ464T,серый,34990,209940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-bq464t-15-ips-intel-core-i3-1005g1-4gb-12-1454569/
+450,ASUS A516JA-BQ511,серый,36990,221940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-bq511-15-ips-intel-core-i3-1005g1-8gb-512-1454565/
+451,ASUS VivoBook X515JA-BQ041T,серый,45900,275400,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-x515ja-bq041t-15-6-ips-intel-core-i3-1005g1-4gb-1453412/
+452,ASUS A516JA-EJ679,серый,26990,161940,,в 25 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-ej679-15-intel-pentium-6805-8gb-256gb-ssd-1455245/
+453,ASUS A516JA-EJ678,серый,25990,155940,,в 33 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-ej678-15-intel-pentium-6805-4gb-256gb-ssd-1455239/
+454,ASUS VivoBook X512JA-BQ1021,синий,34590,207540,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-x512ja-bq1021-15-6-ips-intel-core-i3-1005g1-4gb-1452429/
+455,ASUS Zenbook UX325EA-KG276,светло-фиолетовый,69990,419940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-ux325ea-kg276-13-intel-core-i5-1135g7-8gb-512gb-1454746/
+456,LENOVO Thinkbook 15 G2 ITL,серый,73990,443940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-15-g2-itl-15-6-intel-core-i7-1165g7-2-8ggc-8g-1424238/
+457,ACER Nitro 5 AN515-54-50VG,черный,77990,467940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-54-50vg-i5-9300h-8gb-1tb-ssd128gb-rtx-2060-1409075/
+458,ACER Nitro 5 AN515-54-52UY,черный,82790,496740,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-54-52uy-i5-9300h-16gb-1tb-ssd128gb-rtx-2060-1409065/
+459,GIGABYTE Aero 15 XC-8RU1130SH,черный,185990,1115940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-gigabyte-aero-15-xc-8ru1130sh-i7-10870h-16gb-ssd512gb-rtx-3070-1512916/
+460,ASUS VivoBook S533EQ-BN201T,красный,77800,466800,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-s533eq-bn201t-i5-1135g7-16gb-ssd1tb-mx330-2gb-15-1512941/
+461,ASUS VivoBook S533EA-BN149T,черный,64650,387900,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-s533ea-bn149t-i5-1135g7-8gb-ssd512gb-15-6-ips-fh-1512936/
+462,ARK Jumper EZbook S5,серебристый,21990,131940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-ark-ezbook-s5-cel-n3350-6gb-emmc128gb-14-fhd-w10-silver-1489708/
+463,ARK Jumper EZbook S5,серебристый,18990,113940,,в 49 магазинах,https://www.citilink.ru/product/noutbuk-ark-ezbook-s5-cel-n3350-6gb-emmc64gb-14-fhd-w10-silver-1489537/
+464,HP Envy 17-cg1009ur,серебристый,90990,545940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-envy-17-cg1009ur-17-3-ips-intel-core-i5-1135g7-16gb-1000gb-1444160/
+465,HP 17-by4003ur,серебристый,59690,358140,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-17-by4003ur-17-3-ips-intel-core-i5-1135g7-8gb-512gb-ssd-nvi-1442315/
+466,ASUS ROG G513QR-HF101T,серый,185990,1115940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-g513qr-hf101t-15-6-ips-amd-ryzen-9-5900hx-16gb-1454549/
+467,LENOVO IdeaPad 5 14ARE05,серый,69990,419940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-5-14are05-14-ips-amd-ryzen-7-4700u-16gb-512gb-s-1449388/
+468,ACER Aspire 1 A114-21-R0DM,черный,22990,137940,,в 8 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-1-a114-21-r0dm-14-amd-athlon-silver-3050u-4gb-128g-1439599/
+469,LENOVO IdeaPad 5 15ITL05,синий,54990,329940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-15itl05-15-6-ips-intel-core-i3-1115g4-8gb-2-1430624/
+470,DELL Inspiron 3501,черный,31990,191940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-dell-inspiron-3501-i3-1005g1-4gb-ssd256gb-15-6-wva-fhd-lin-bla-1419899/
+471,IRBIS NB NB244,серебристый,18990,113940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-irbis-nb-nb244-cel-n3350-4gb-ssd64gb-14-ips-fhd-w10h-silver-45-1501755/
+472,MSI Modern 14 B4MW-406RU,серый,54990,329940,,в 22 магазинах,https://www.citilink.ru/product/noutbuk-msi-modern-14-b4mw-406ru-ryzen-5-4500u-8gb-ssd256gb-14-ips-fhd-1497200/
+473,IRBIS NB NB73,белый,18990,113940,5.0,в 49 магазинах,https://www.citilink.ru/product/noutbuk-irbis-nb-nb73-atom-x5-j3455-4gb-ssd64gb-13-3-ips-touch-fhd-w10-1496742/
+474,Ноутбук-трансформер HP Envy x360 15-ed1020ur,темно-серый,76990,461940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-envy-15-ed1020ur-i5-1135g7-8gb-ssd512gb-15-6-ips-touch-fhd-1494597/
+475,LENOVO IdeaPad 3 15ARE05,синий,43900,263400,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-3-15are05-ryzen-3-4300u-8gb-ssd512gb-15-6-ips-f-1487981/
+476,ACER Nitro 5 AN515-54-50YQ,черный,75990,455940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-an515-54-50yq-i5-9300h-12gb-ssd512gb-gtx-1650-4gb-1-1487910/
+477,ASUS Zenbook UX425JA-BM040T,серый,89130,534780,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux425ja-bm040t-i7-1065g7-16gb-ssd512gb-14-ips-fhd-1487615/
+478,ASUS VivoBook X512DA-BQ581T,серый,50990,305940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-x512da-bq581t-ryzen-5-3500u-8gb-ssd512gb-vega-8-1487608/
+479,GIGABYTE Aero 15 OLED XB-8RU5130SP,черный,215990,1295940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-gigabyte-aero-15-oled-xb-8ru5130sp-i7-10875h-16gb-ssd512gb-rtx-1485625/
+480,GIGABYTE Aero 15 KB-7RU1130SH,черный,145990,875940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-gigabyte-aero-15-kb-7ru1130sh-i7-10750h-16gb-ssd512gb-rtx-2060-1485609/
+481,ASUS Zenbook UX435EA-A5007T,серый,105990,635940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux435ea-a5007t-i7-1165g7-16gb-ssd512gb-14-ips-fhd-1482436/
+482,HP 250 G7,темно-серебристый,40480,242880,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-250-g7-pen-n5030-8gb-ssd256gb-dvdrw-15-6-fhd-dos-dk-silver-1481987/
+483,DELL Vostro 7500,серый,105990,635940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-7500-i7-10750h-16gb-ssd1tb-gtx-1650-ti-4gb-15-6-fh-1480104/
+484,HP 255 G8,черный,30990,185940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-255-g8-15-6-amd-athlon-3050u-8gb-256gb-ssd-free-dos-3-0-32p-1477038/
+485,HP Omen 15-ek1012ur,черный,175990,1055940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-omen-15-ek1012ur-i7-10870h-16gb-ssd1tb-rtx-3070-8gb-15-6-ip-1475826/
+486,HP Omen 15-en1030ur,темно-серебристый,169990,1019940,3.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-omen-15-en1030ur-ryzen-7-5800h-16gb-ssd1tb-rtx-3070-8gb-15-1475705/
+487,ASUS TUF Gaming FX506LH-HN197,серый,71990,431940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx506lh-hn197-15-6-intel-core-i5-10300h-2-5ggc-1473748/
+488,ASUS TUF Gaming FX506LH-HN197T,серый,75990,455940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx506lh-hn197t-15-6-intel-core-i5-10300h-2-5gg-1473745/
+489,ASUS A516JA-BQ510T,серый,37990,227940,,в 25 магазинах,https://www.citilink.ru/product/noutbuk-asus-a516ja-bq510t-15-6-ips-intel-core-i3-1005g1-1-2ggc-4gb-25-1473695/
+490,HAIER A1400SD,черный,20990,125940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-haier-a1400sd-cel-n3350-4gb-ssd128gb-emmc64gb-14-1-tn-hd-dos-b-1473544/
+491,HP 14s-fq0094ur,черный,29990,179940,,в 48 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-fq0094ur-ryzen-3-3250u-4gb-ssd128gb-14-ips-fhd-w10-blac-1473255/
+492,HP Envy 17-cg1014ur,серебристый,79990,479940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-envy-17-cg1014ur-17-3-ips-intel-core-i5-1135g7-8gb-512gb-ss-1472818/
+493,LENOVO IdeaPad 3 15IIL05,синий,43490,260940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-3-15iil05-15-6-intel-core-i3-1005g1-1-2ggc-8gb-1472753/
+494,LENOVO IdeaPad 3 15IIL05,синий,49990,299940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-3-15iil05-15-6-ips-intel-core-i5-1035g1-1-0ggc-1471309/
+495,MSI Creator 15 A10UHT-428RU,серый,264990,1589940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-creator-15-a10uht-428ru-15-6-intel-core-i7-10870h-32gb-2tb-1467484/
+496,MSI Creator 15 A10UET-430RU,серый,187990,1127940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-creator-15-a10uet-430ru-15-6-intel-core-i7-10870h-32gb-1tb-1467477/
+497,MSI Bravo 15 A4DDR-299RU,черный,92260,553560,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-bravo-15-a4ddr-299ru-15-6-ips-amd-ryzen-7-4800h-16gb-512gb-1467465/
+498,ASUS Pro P3540FA-BQ1248R,серый,79990,479940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-pro-p3540fa-bq1248r-15-6-intel-core-i7-8565u-16gb-512gb-s-1464438/
+499,ASUS Expertbook P2451FA-EB1355,черный,40590,243540,5.0,в 4 магазинах,https://www.citilink.ru/product/noutbuk-asus-expertbook-p2451fa-eb1355-14-ips-intel-core-i3-10110u-8gb-1464408/
+500,MSI GE66 Raider 10SE-673XRU,черный,124990,749940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-ge66-raider-10se-673xru-15-6-intel-core-i7-10750h-8gb-1tb-1462961/
+501,HP Pavilion Gaming 15-dk1094ur,черный,75990,455940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1094ur-15-6-ips-intel-core-i5-10300h-8-1457542/
+502,ASUS VivoBook E410MA-EK658T,черный,31490,188940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-e410ma-ek658t-14-intel-pentium-silver-n5030-4gb-1455130/
+503,ASUS Zenbook UX325EA-KG271,серый,75990,455940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-ux325ea-kg271-13-intel-core-i5-1135g7-16gb-512gb-1454743/
+504,ASUS M515DA-BQ438T,серый,36990,221940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq438t-15-ips-amd-ryzen-5-3500u-4gb-256gb-1454666/
+505,ASUS VivoBook A512JA-BQ409T,серый,41990,251940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a512ja-bq409t-15-ips-intel-core-i3-1005g1-8gb-25-1454599/
+506,ASUS TUF Gaming FX516PR-HN075T,серый,152990,917940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx516pr-hn075t-15-6-ips-intel-core-i7-11370h-1-1454534/
+507,ACER Aspire 3 A315-42-R6N1,черный,46990,281940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-42-r6n1-15-6-amd-ryzen-3-3200u-2-6ggc-12gb-1453813/
+508,ASUS VivoBook M433IA-EB884T,зеленый,56200,337200,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-m433ia-eb884t-14-ips-amd-ryzen-5-4500u-2-3ggc-8gb-256gb-s-1453244/
+509,ASUS M515DA-BR390,серый,28990,173940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-m515da-br390-15-6-amd-athlon-gold-3150u-2-4ggc-4gb-256gb-1453239/
+510,DELL Vostro 3500,черный,57990,347940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-15-6-intel-core-i5-1135g7-8gb-512gb-ssd-intel-1452487/
+511,DELL Vostro 3500,черный,44990,269940,2.0,в 32 магазинах,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-15-6-intel-core-i5-1135g7-8gb-256gb-ssd-intel-1452485/
+512,ASUS VivoBook X515MA-EJ015T,серый,36900,221400,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-x515ma-ej015t-15-6-intel-pentium-silver-n5030-4g-1452387/
+513,DELL G3 3500,черный,93990,563940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-g3-3500-15-6-intel-core-i7-10750h-8gb-512gb-ssd-nvidia-ge-1452341/
+514,DELL Vostro 3501,серый,36990,221940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-dell-vostro-3501-15-6-intel-core-i3-1005g1-8gb-256gb-ssd-intel-1452125/
+515,APPLE MacBook Pro M1,серый космос,219990,1319940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-13-3-ips-apple-m1-16gb-2tb-ssd-mac-os-z11c00-1451573/
+516,APPLE MacBook Pro M1,серый космос,139990,839940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-13-3-ips-apple-m1-16gb-256gb-ssd-mac-os-z11b-1451570/
+517,APPLE MacBook Air M1,золотой,129990,779940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-512gb-ssd-mac-os-z12a-1451559/
+518,APPLE MacBook Air M1,золотой,111990,671940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-256gb-ssd-mac-os-z12a-1451557/
+519,APPLE MacBook Air M1,серебристый,139990,839940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-512gb-ssd-mac-os-z128-1451542/
+520,APPLE MacBook Air M1,серый космос,169590,1017540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-8gb-2tb-ssd-mac-os-z125000-1451512/
+521,APPLE MacBook Air M1,серый космос,143990,863940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-512gb-ssd-mac-os-z125-1451511/
+522,ASUS Pro P2540FA-DM0281,серебристый,37990,227940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p2540fa-dm0281-15-6-intel-core-i3-10110u-8gb-256gb-ss-1450382/
+523,ASUS Expertbook P1510CDA-BQ1108,черный,42990,257940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-expertbook-p1510cda-bq1108-15-6-ips-amd-ryzen-5-3500u-8gb-1450338/
+524,DELL G3 3500,белый,65990,395940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-dell-g3-3500-15-6-intel-core-i5-10300h-8gb-512gb-ssd-nvidia-ge-1449499/
+525,DELL G3 3500,черный,66990,401940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-dell-g3-3500-15-6-intel-core-i5-10300h-8gb-512gb-ssd-nvidia-ge-1449498/
+526,DELL Vostro 3500,серый,78000,468000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-14-intel-core-i7-1165g7-16gb-512gb-ssd-intel-1445983/
+527,HONOR Hunter V700 FRD-WFG9,черный,143990,863940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-honor-hunter-v700-16-1-ips-intel-core-i7-10750h-2-6ggc-16gb-51-1444662/
+528,HP Envy 17-cg1010ur,серебристый,96990,581940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-envy-17-cg1010ur-17-3-ips-intel-core-i7-1165g7-16gb-512gb-s-1444166/
+529,HP Omen 15-ek0051ur,черный,114990,689940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-omen-15-ek0051ur-15-6-ips-intel-core-i5-10300h-16gb-512gb-s-1444117/
+530,DELL Inspiron 7400,серебристый,82990,497940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-inspiron-7400-14-5-intel-core-i5-1135g7-8gb-512gb-ssd-int-1443926/
+531,Ноутбук-трансформер HP Envy x360 15-ed1017ur,серебристый,84990,509940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-envy-x360-15-ed1017ur-15-6-ips-intel-core-i5-1135g7-16gb-51-1443924/
+532,Ноутбук-трансформер HP Envy x360 15-ed1014ur,темно-серый,108990,653940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-envy-x360-15-ed1014ur-15-6-ips-intel-core-i5-1135g7-16gb-10-1443913/
+533,HP Envy 13-ba1004ur,серебристый,86990,521940,3.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-envy-x360-13-ba1004ur-13-3-ips-intel-core-i5-1135g7-16gb-51-1443883/
+534,HP Envy 13-ba1003ur,темно-серый,89990,539940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-envy-x360-13-ba1003ur-13-3-ips-intel-core-i5-1135g7-8gb-512-1443878/
+535,HP 17-by4004ur,серебристый,59990,359940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-17-by4004ur-17-3-ips-intel-core-i5-1135g7-8gb-512gb-ssd-int-1442317/
+536,HP Pavilion Gaming 16-a0038ur,черный/зеленый,95990,575940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-16-a0038ur-16-1-ips-intel-core-i7-10750h-16-1442280/
+537,HP Pavilion Gaming 16-a0035ur,черный/зеленый,89990,539940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-16-a0035ur-16-1-ips-intel-core-i5-10300h-16-1442273/
+538,HP Pavilion 14-dv0038ur,белый,98990,593940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-14-dv0038ur-14-ips-intel-core-i7-1165g7-16gb-1000g-1441903/
+539,HP 14s-dq2009ur,белый,35990,215940,5.0,в 34 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2009ur-14-ips-intel-pentium-gold-7505-8gb-512gb-ssd-i-1441872/
+540,HP 14s-dq2012ur,черный,30990,185940,5.0,в 49 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2012ur-14-ips-intel-pentium-gold-7505-4gb-256gb-ssd-i-1441865/
+541,HP 14s-dq2011ur,белый,31990,191940,5.0,в 34 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2011ur-14-ips-intel-pentium-gold-7505-4gb-256gb-ssd-i-1441691/
+542,HP 14s-dq2007ur,белый,35990,215940,,в 49 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2007ur-14-ips-intel-pentium-gold-7505-4gb-256gb-ssd-i-1441682/
+543,HP 14s-dq2003ur,серебристый,48990,293940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2003ur-14-ips-intel-core-i3-1115g4-8gb-512gb-ssd-inte-1441621/
+544,HP Pavilion 13-bb0023ur,золотистый,83990,503940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-13-bb0023ur-13-3-ips-intel-core-i7-1165g7-16gb-512-1440962/
+545,HP Pavilion 13-bb0020ur,серебристый,64990,389940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-13-bb0020ur-13-3-ips-intel-core-i5-1135g7-8gb-512g-1440944/
+546,HP Pavilion 13-bb0018ur,серебристый,53990,323940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-13-bb0018ur-13-3-ips-intel-core-i3-1115g4-8gb-256g-1440929/
+547,ACER Swift 3X SF314-510G-70SN,синий,84990,509940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-510g-70sn-14-ips-intel-core-i7-1165g7-16gb-1440081/
+548,ACER Swift 3 SF313-53-50G6,серебристый,69990,419940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf313-53-50g6-13-5-ips-intel-core-i5-1135g7-8gb-1440063/
+549,ACER Aspire 1 A114-21-R6NP,черный,24590,147540,,в 34 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-1-a114-21-r6np-14-amd-athlon-silver-3050u-8gb-128g-1439607/
+550,ACER Aspire 1 A114-33-P1T1,серебристый,25490,152940,,в 7 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-1-a114-33-p1t1-14-intel-pentium-silver-n6000-4gb-u-1439566/
+551,ACER Aspire 1 A115-32-P26B,серебристый,28990,173940,,в 36 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-1-a115-32-p26b-15-6-intel-pentium-silver-n6000-4gb-1439508/
+552,HP ProBook 440 G8,серебристый,65990,395940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-probook-440-g8-14-intel-core-i3-1115g4-8gb-256gb-ssd-window-1439501/
+553,ACER Aspire 7 A715-75G-54F2,черный,69990,419940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-54f2-15-6-ips-intel-core-i5-9300h-16gb-1438707/
+554,ACER Aspire 3 A314-35-C60A,серебристый,23990,143940,,в 26 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a314-35-c60a-14-intel-celeron-n4500-4gb-128gb-ss-1438229/
+555,ACER Aspire 3 A315-42-R4MD,черный,55990,335940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-42-r4md-15-6-amd-ryzen-5-3500u-8gb-512gb-ss-1436587/
+556,LENOVO IdeaPad 3 15IIL05,синий,54990,329940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip3-15iil05-15-6-ips-intel-core-i5-1035g1-8gb-5-1436347/
+557,ASUS VivoBook D712DA-AU280,серебристый,50990,305940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-d712da-au280-17-3-ips-amd-ryzen-3-3200u-8gb-512g-1433102/
+558,XIAOMI Mi RedmiBook,серый,88900,533400,,в 1 магазине,https://www.citilink.ru/product/noutbuk-xiaomi-mi-redmibook-16-ips-intel-core-i7-1065g7-16gb-512gb-ssd-1432677/
+559,LENOVO IdeaPad 5 15ITL05,серый,50990,305940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-15itl05-15-6-ips-intel-core-i3-1115g4-8gb-5-1430625/
+560,LENOVO IdeaPad 5 14ITL05,серый,46490,278940,,в 22 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14itl05-14-ips-intel-core-i3-1115g4-8gb-512-1430622/
+561,XIAOMI Redmibook G Gaming,черный,87890,527340,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-xiaomi-redmibook-gaming-16-1-intel-core-i5-10300h-16gb-512gb-s-1430011/
+562,LENOVO ThinkPad L13  G2,черный,60990,365940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-thinkpad-l13-g2-13-3-ips-intel-core-i5-1135g7-2-4ggc-8g-1427669/
+563,LENOVO IdeaPad 5 14ITL05,серый,74990,449940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14itl05-14-ips-intel-core-i5-1135g7-16gb-51-1427244/
+564,LENOVO Legion S7 15IMH5,серый,133990,803940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-legion-s7-15imh5-15-6-intel-core-i7-10875h-16gb-1tb-ssd-1427147/
+565,HP Pavilion 15-eh0029ur,серебристый,62800,376800,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-15-eh0029ur-15-6-ips-amd-ryzen-7-4700u-8gb-512gb-s-1426646/
+566,HP 15s-fq1108ur,серебристый,49990,299940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-fq1108ur-15-6-ips-intel-core-i5-1035g1-8gb-512gb-ssd-in-1426514/
+567,HP 15s-fq1106ur,серебристый,47990,287940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-fq1106ur-15-6-ips-intel-core-i5-1035g1-8gb-256gb-ssd-in-1426511/
+568,HP 15s-fq1101ur,серебристый,41990,251940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-15s-fq1101ur-15-6-ips-intel-core-i5-1035g1-8gb-256gb-ssd-in-1426505/
+569,DELL G3 3500,черный,102420,614520,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g3-3500-15-6-intel-core-i7-10750h-16gb-512gb-ssd-nvidia-g-1426188/
+570,HP 15-da2031ur,черный,38990,233940,5.0,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2031ur-15-6-ips-intel-core-i5-10210u-8gb-500gb-intel-u-1426185/
+571,LENOVO Yoga Slim7 14ITL05,серый,82990,497940,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-lenovo-yoga-slim7-14itl05-14-intel-core-i5-1135g7-2-4ggc-16gb-1424453/
+572,LENOVO Yoga Slim7 14ITL05,бордовый,89900,539400,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-lenovo-yoga-slim7-14itl05-14-intel-core-i5-1135g7-2-4ggc-16gb-1424451/
+573,HP 15-da2037ur,серебристый,54990,329940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-15-da2037ur-15-6-intel-core-i5-10210u-16gb-512gb-ssd-intel-1423278/
+574,HP 15-da2038ur,серебристый,50990,305940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2038ur-15-6-intel-core-i5-10210u-16gb-256gb-ssd-intel-1423276/
+575,HP 15-da2035ur,серебристый,49990,299940,5.0,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2035ur-15-6-ips-intel-core-i5-10210u-8gb-256gb-ssd-nvi-1423275/
+576,HP 15-da2019ur,черный,40990,245940,,в 11 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2019ur-15-6-ips-intel-core-i3-10110u-8gb-1000gb-128gb-1423205/
+577,HP 15-da2021ur,черный,37590,225540,,в 30 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2021ur-15-6-ips-intel-core-i3-10110u-8gb-500gb-intel-u-1423194/
+578,HP 15-da2026ur,серебристый,36490,218940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2026ur-15-6-ips-intel-core-i3-10110u-8gb-1000gb-128gb-1423190/
+579,HP 15-da2027ur,серебристый,32990,197940,,в 10 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-da2027ur-15-6-ips-intel-core-i3-10110u-8gb-1000gb-intel-1423182/
+580,HP 15-da2028ur,серебристый,34990,209940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-15-da2028ur-15-6-ips-intel-core-i3-10110u-8gb-256gb-ssd-int-1423153/
+581,ASUS Pro P3540FA-BQ0939,серый,40990,245940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-pro-p3540fa-bq0939-i3-8145u-8gb-ssd256gb-620-15-6-ips-fhd-1420873/
+582,MSI Summit E15 A11SCST-067RU,черный,137890,827340,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-summit-e15-a11scst-067ru-i7-1185g7-16gb-ssd1tb-gtx-1650-ti-1418697/
+583,MSI GL75 Leopard 10SCSR-046XRU,черный,81990,491940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl75-leopard-10scsr-046xru-i5-10300h-8gb-1tb-ssd256gb-gtx-1418662/
+584,MSI GL65 Leopard 10SCSR-082XRU,черный,76990,461940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-msi-gl65-leopard-10scsr-082xru-i5-10300h-8gb-1tb-ssd256gb-gtx-1418661/
+585,DELL Vostro 3501,черный,54990,329940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3501-i3-1005g1-8gb-1tb-ssd256gb-15-6-fhd-w10pro-bl-1417167/
+586,LENOVO Legion 5 15IMH05,черный,79990,479940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15imh05-i5-10300h-16gb-ssd512gb-gtx-1650-ti-4g-1416389/
+587,LENOVO Legion 5 15IMH05,черный,71990,431940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15imh05-i5-10300h-8gb-ssd512gb-gtx-1650-ti-4gb-1416387/
+588,LENOVO IdeaPad 5 14ARE05,синий,64990,389940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14are05-ryzen-7-4700u-16gb-ssd512gb-14-ips-1416363/
+589,LENOVO IdeaPad 3 15IIL05,серый,35990,215940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip3-15iil05-i3-1005g1-4gb-ssd256gb-15-6-ips-fhd-1416358/
+590,ASUS Zenbook UM425IA-AM009T,серый,69990,419940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-zenbook-um425ia-am009t-ryzen-5-4500u-16gb-ssd512gb-14-fhd-1416077/
+591,ACER Swift 3 SF314-59-53N6,серебристый,69990,419940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-59-53n6-i5-1135g7-8gb-ssd512gb-14-ips-fhd-1415936/
+592,ACER Swift 3 SF314-59-70RG,серебристый,94990,569940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-59-70rg-i7-1165g7-16gb-ssd512gb-14-ips-fhd-1415931/
+593,ACER Swift 5 SF514-55TA-769D,темно-зеленый,126990,761940,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-acer-swift-5-sf514-55ta-769d-i7-1165g7-16gb-ssd1tb-14-ips-tou-1415904/
+594,ASUS M509DA-BQ484T,серый,56990,341940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-m509da-bq484t-ryzen-7-3700u-8gb-ssd512gb-vega-10-15-6-ips-1415749/
+595,ASUS M509DA-BQ1126,серый,44990,269940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-m509da-bq1126-ryzen-5-3500u-16gb-1tb-ssd128gb-vega-8-15-6-1415736/
+596,ACER Extensa 15 EX215-53G-591Q,черный,56710,340260,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-extensa-15-ex215-53g-591q-i5-1035g1-8gb-ssd256gb-mx330-2g-1415332/
+597,LENOVO Legion 5 17IMH05,черный,79990,479940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-17imh05-i5-10300h-8gb-ssd512gb-gtx-1650-ti-4gb-1414327/
+598,ACER Enduro N3 EN314-51W-76BE,черный,141930,851580,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-enduro-n3-en314-51w-76be-i7-10510u-16gb-ssd512gb-14-ips-f-1413792/
+599,HP Pavilion Gaming 17-cd1049ur,черный/зеленый,76990,461940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1049ur-i5-10300h-16gb-ssd512gb-gtx-165-1412166/
+600,HP Pavilion Gaming 17-cd1048ur,черный/зеленый,71990,431940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1048ur-i5-10300h-8gb-ssd512gb-gtx-1650-1412162/
+601,HP Pavilion Gaming 15-dk1041ur,черный,85990,515940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1041ur-i5-10300h-16gb-ssd512gb-gtx-166-1411065/
+602,DELL G7 7700,черный,109990,659940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-g7-7700-i5-10300h-8gb-ssd512gb-gtx-1660-ti-6gb-17-3-ips-f-1409609/
+603,DELL G5 5500,черный,129990,779940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5500-i7-10750h-16gb-ssd1tb-rtx-2070-max-q-8gb-15-6-wva-1409605/
+604,DELL G5 5500,черный,75590,453540,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-dell-g5-5500-i5-10300h-8gb-ssd512gb-gtx-1650-ti-4gb-15-6-wva-f-1409603/
+605,ACER Nitro 5 AN517-52-77M3,черный,97990,587940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an517-52-77m3-i7-10750h-16gb-1tb-ssd256gb-gtx-166-1409204/
+606,ACER Nitro 5 AN517-52-767F,черный,88990,533940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an517-52-767f-i7-10750h-8gb-ssd512gb-gtx-1660-ti-1409194/
+607,ACER Nitro 5 AN515-55-54KC,черный,78990,473940,5.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-54kc-i5-10300h-8gb-ssd512gb-gtx-1660-ti-1409186/
+608,ACER Nitro 5 AN517-52-57Z1,черный,81990,491940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an517-52-57z1-i5-10300h-8gb-ssd512gb-gtx-1660-ti-1409184/
+609,ACER Nitro 5 AN515-44-R0A2,черный,69990,419940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-44-r0a2-ryzen-7-4800h-8gb-ssd512gb-gtx-1650-1409161/
+610,ACER Nitro 5 AN515-44-R9EJ,черный,83690,502140,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-44-r9ej-ryzen-7-4800h-16gb-ssd1tb-gtx-1650-1409153/
+611,ACER Nitro 5 AN515-44-R4N8,черный,85990,515940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-44-r4n8-ryzen-7-4800h-16gb-ssd1tb-gtx-1650-1409151/
+612,ACER Nitro 5 AN515-54-52ZU,черный,84610,507660,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-54-52zu-i5-9300h-8gb-ssd512gb-gtx-1660-ti-6-1409098/
+613,ACER Predator Triton 300 PT315-52-57PP,черный,108990,653940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-triton-300-pt315-52-57pp-i5-10300h-16gb-ssd512gb-gtx-1660-1408871/
+614,ACER Predator Helios 300 PH315-53-5602,черный,80990,485940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-helios-300-ph315-53-5602-i5-10300h-8gb-ssd512gb-gtx-1650-1408672/
+615,ACER Predator Helios 300 PH315-53-50QL,черный,89990,539940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-helios-300-ph315-53-50ql-i5-10300h-8gb-ssd512gb-gtx-1650-1408671/
+616,ACER Predator Helios 300 PH315-53-58NW,черный,89990,539940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-helios-300-ph315-53-58nw-i5-10300h-8gb-1tb-ssd256gb-gtx-1-1408666/
+617,ACER Predator Helios 300 PH315-53-744H,черный,101990,611940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-helios-300-ph315-53-744h-i7-10750h-16gb-1tb-ssd256gb-gtx-1408648/
+618,LENOVO IdeaPad 3 15IGL05,серый,27650,165900,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip3-15igl05-cel-n4020-8gb-ssd128gb-15-6-tn-fhd-1408491/
+619,LENOVO ThinkPad E15 Gen 2,черный,69990,419940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-thinkpad-e15-gen-2-ryzen-5-4500u-8gb-ssd256gb-15-6-wva-1407160/
+620,DELL G7 7700,черный,201590,1209540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g7-7700-i9-10885h-16gb-ssd1tb-rtx-2070-super-8gb-17-3-wva-1404624/
+621,ACER Aspire 5 A514-53-564E,черный,44990,269940,,в 8 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a514-53-564e-i5-1035g1-8gb-ssd256gb-14-ips-fhd-n-1404284/
+622,ACER Aspire 5 A514-53-567W,серебристый,43690,262140,5.0,в 6 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a514-53-567w-i5-1035g1-8gb-1tb-14-ips-fhd-noos-s-1404282/
+623,ACER Aspire 3 A315-57G-56C5,черный,44990,269940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-57g-56c5-i5-1035g1-8gb-1tb-mx330-2gb-15-6-f-1404230/
+624,ACER Aspire 3 A315-57G-321Y,черный,35990,215940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-57g-321y-i3-1005g1-4gb-ssd512gb-mx330-2gb-1-1404167/
+625,ACER Aspire 3 A315-23-R00X,черный,33990,203940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-23-r00x-ryzen-3-3250u-8gb-1tb-15-6-fhd-noos-1404142/
+626,ACER Aspire 3 A317-52-5354,черный,49990,299940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-5354-i5-1035g1-8gb-ssd256gb-17-3-hd-w10-1404119/
+627,ACER Aspire 3 A317-52-51J5,черный,45990,275940,5.0,в 10 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-51j5-i5-1035g1-8gb-ssd512gb-17-3-hd-noos-1404117/
+628,ACER Aspire 3 A317-52-53AE,черный,43090,258540,,в 9 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-53ae-i5-1035g1-8gb-ssd256gb-17-3-hd-noos-1404116/
+629,HP ProBook 430 G7,серебристый,73690,442140,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-probook-430-g7-i5-10210u-16gb-ssd512gb-13-3-uwva-fhd-w10pro-1404095/
+630,HP ProBook 450 G7,серебристый,69990,419940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-probook-450-g7-i5-10210u-16gb-ssd256gb-15-6-uwva-fhd-w10pro-1404089/
+631,Ноутбук-трансформер HP Spectre x360 15-eb0043ur,черный,199990,1199940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-x360-15-eb0043ur-i7-10750h-16gb-ssd2000gb-gtx-1650-1403097/
+632,Ноутбук-трансформер HP Spectre x360 15-eb0042ur,синий,179990,1079940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-x360-15-eb0042ur-i7-10750h-16gb-ssd1000gb-gtx-1650-1403095/
+633,HP Omen 15-dh1032ur,черный,165990,995940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-omen-15-dh1032ur-i7-10750h-16gb-1tb-ssd512gb-rtx-2080-8gb-1-1403063/
+634,HP Pavilion Gaming 15-dk1048ur,черный,69990,419940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1048ur-i5-10300h-8gb-ssd512gb-gtx-1650-1402289/
+635,HP Pavilion Gaming 17-cd1064ur,черный/зеленый,108990,653940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1064ur-i7-10750h-16gb-1tb-ssd512gb-gtx-1402158/
+636,HP Pavilion Gaming 17-cd1060ur,черный/зеленый,99990,599940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1060ur-i7-10750h-16gb-1tb-ssd512gb-gtx-1402154/
+637,LENOVO V14-ADA,серый,49990,299940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-v14-ada-ryzen-3-3250u-8gb-ssd512gb-vega-8-14-tn-fhd-noo-1399878/
+638,HP 250 G7,серебристый,40990,245940,3.0,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-250-g7-i3-1005g1-8gb-ssd512gb-15-6-sva-fhd-w10plh64-silver-1398137/
+639,LENOVO IdeaPad 5 15ARE05,серый,85990,515940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip-5-15are05-ryzen-7-4700u-16gb-ssd512gb-15-6-i-1397451/
+640,LENOVO IP Gaming 3 15ARH05,черный,64590,387540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15arh05-ryzen-5-4600h-16gb-ssd512gb-gtx-165-1397361/
+641,ACER Aspire 5 A515-44-R73A,черный,52990,317940,4.7,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-44-r73a-ryzen-3-4300u-12gb-ssd512gb-15-6-ip-1396093/
+642,HP 250 G7,серебристый,64990,389940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-250-g7-i5-1035g1-16gb-ssd512gb-dvdrw-15-6-sva-fhd-w10pro64-1392836/
+643,ALIENWARE m15 R3,серебристый,174590,1047540,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-alienware-m15-r3-i7-10750h-16gb-ssd512gb-rtx-2060-6gb-15-6-ips-1390072/
+644,DELL XPS 17,серебристый,199990,1199940,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-dell-xps-17-i7-10750h-16gb-ssd1tb-gtx-1650-ti-max-q-4gb-17-ip-1390065/
+645,DELL G5 5500,черный,123990,743940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-g5-5500-i7-10750h-16gb-ssd1tb-rtx-2060-6gb-15-6-wva-fhd-w-1387672/
+646,DELL G5 5500,черный,113990,683940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-g5-5500-i7-10750h-16gb-ssd512gb-rtx-2060-6gb-15-6-wva-fhd-1387668/
+647,MSI GL65 Leopard 10SDK-406RU,черный,89990,539940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl65-leopard-10sdrk-w10-i5-10300h-8gb-ssd512gb-gtx-1660-ti-1386470/
+648,MSI GL65 Leopard 10SDK-404RU,черный,99990,599940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl65-leopard-10sdrk-w10-i7-10750h-16gb-ssd512gb-gtx-1660-t-1386466/
+649,MSI GL75 Leopard 10SDK-251RU,черный,93990,563940,4.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl75-leopard-10sdk-251ru-i5-10300h-8gb-ssd512gb-gtx-1660-t-1386420/
+650,MSI GS75 Stealth 10SE-466RU,черный,139990,839940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gs75-stealth-10se-466ru-i7-10750h-16gb-ssd512gb-rtx-2060-6-1386400/
+651,DELL G5 5500,черный,106790,640740,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5500-i7-10750h-16gb-ssd512gb-gtx-1660-ti-6gb-15-6-wva-1386196/
+652,DELL XPS 15,серебристый,189990,1139940,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-dell-xps-15-i7-10750h-16gb-ssd1tb-gtx-1650-ti-4gb-15-6-ips-fh-1384016/
+653,DELL XPS 15,серебристый,163590,981540,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-dell-xps-15-i5-10300h-8gb-ssd512gb-gtx-1650-ti-4gb-15-6-ips-f-1384015/
+654,MSI GF63 Thin 9SCXR-454RU,черный,79990,479940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scxr-454ru-i7-9750h-8gb-ssd512gb-gtx-1650-max-q-1383864/
+655,MSI GF63 Thin 9SCXR-458RU,черный,69990,419940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scxr-458ru-i5-9300h-8gb-ssd512gb-gtx-1650-max-q-1383863/
+656,MSI GL75 Leopard 10SCSR-017RU,черный,90990,545940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-msi-gl75-leopard-10scsr-017ru-i7-10750h-8gb-ssd512gb-gtx-1650-1383652/
+657,HP ProBook 445 G7,серебристый,53450,320700,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-probook-445-g7-ryzen-5-4500u-8gb-ssd256gb-14-uwva-fhd-dos-1382924/
+658,HP ProBook 445 G7,серебристый,56990,341940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-probook-445-g7-ryzen-7-4700u-8gb-ssd256gb-14-uwva-fhd-dos-1382903/
+659,ASUS VivoBook X543MA-DM1140,серый,31990,191940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-x543ma-dm1140-pen-n5030-4gb-ssd128gb-605-15-6-fh-1381316/
+660,HP ProBook 455 G7,серебристый,75220,451320,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-probook-455-g7-ryzen-5-4500u-16gb-ssd512gb-vega-8-15-6-uwva-1378472/
+661,LENOVO IdeaPad 3 15ADA05,серый,44490,266940,4.5,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-15ada05-ryzen-5-3500u-8gb-ssd512gb-15-6-fhd-w10-1377751/
+662,LENOVO Legion 7 15IMH05,серый,205990,1235940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-legion-7-15imh05-i7-10750h-32gb-ssd1000gb-rtx-2080-supe-1377500/
+663,LENOVO Legion 7 15IMHg05,серый,258000,1548000,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-legion-7-15imhg05-core-i9-10980hk-32gb-ssd2000gb-rtx-20-1377492/
+664,LENOVO Legion 7 15IMHg05,серый,159990,959940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-legion-7-15imhg05-i7-10875h-16gb-ssd1000gb-rtx-2070-max-1377465/
+665,LENOVO Legion 5 15IMH05H,черный,107990,647940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-legion-15imh05h-i7-10750h-8gb-ssd512gb-rtx-2060-6gb-15-1377454/
+666,LENOVO Legion 5 15IMH05,черный,91790,550740,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15imh05-i5-10300h-16gb-ssd512gb-gtx-1650-ti-4g-1377406/
+667,LENOVO IdeaPad 3 15ARE05,синий,48610,291660,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-15are05-ryzen-3-4300u-8gb-ssd256gb-15-6-ips-fhd-1377085/
+668,ASUS Zenbook UX433FLC-A5230T,синий,74190,445140,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux433flc-a5230t-i5-10210u-8gb-ssd512gb-mx250-2gb-1376901/
+669,APPLE MacBook Pro MWP82RU/A,серебристый,179990,1079940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-mwp82ru-a-13-3-ips-intel-core-i5-2-0ggc-16gb-1376003/
+670,APPLE MacBook Pro,серебристый,109990,659940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-apple-macbook-pro-mxk62ru-a-13-3-ips-intel-core-i5-1-4ggc-8gb-1375997/
+671,ASUS Expertbook B9450FA-BM0556,черный,92990,557940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-expertbook-b9450fa-bm0556-i7-10510u-8gb-ssd512gb-14-fhd-e-1375443/
+672,HP Pavilion Gaming 17-cd1014ur,черный/зеленый,69990,419940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1014ur-i5-10300h-8gb-ssd512gb-gtx-1650-1374977/
+673,LENOVO IP Gaming 3 15IMH05,синий,93990,563940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15imh05-i7-10750h-16gb-ssd512gb-gtx-1650-ti-1373912/
+674,LENOVO IP Gaming 3 15IMH05,черный,65990,395940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15imh05-i5-10300h-8gb-ssd256gb-gtx-1650-4gb-1373906/
+675,LENOVO IP Gaming 3 15IMH05,синий,80990,485940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15imh05-i5-10300h-16gb-ssd512gb-gtx-1650-4g-1373905/
+676,LENOVO Legion 7 15IMH05,серый,142990,857940,3.0,в 5 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-legion-7-15imh-i7-10750h-16gb-ssd512gb-rtx-2070-max-q-8-1372637/
+677,LENOVO Legion 7 15IMH05,серый,135990,815940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-legion-7-15imh-i7-10750h-16gb-ssd512gb-rtx-2060-6gb-15-1372636/
+678,LENOVO Legion 5 15IMH05,черный,96990,581940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15imh-i7-10750h-16gb-ssd512gb-gtx-1650-ti-4gb-1372629/
+679,ACER Nitro 5 AN517-52-56RB,черный,78990,473940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an517-52-56rb-i5-10300h-8gb-ssd512gb-gtx-1650-ti-1372403/
+680,ACER Aspire 3 A317-52-522F,черный,49990,299940,5.0,в 3 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-522f-i5-1035g1-8gb-ssd512gb-17-3-ips-fhd-1372375/
+681,ACER Aspire 3 A314-22-R5YK,черный,31990,191940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a314-22-r5yk-ryzen-3-3250u-8gb-ssd256gb-14-fhd-n-1372369/
+682,ACER Aspire 3 A317-52-776D,черный,58990,353940,5.0,в 11 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-776d-i7-1065g7-8gb-1tb-ssd256gb-17-3-ips-1372356/
+683,ACER Aspire 3 A317-52-325A,черный,52990,317940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-325a-i3-1005g1-8gb-1tb-ssd128gb-17-3-ips-1372355/
+684,ASUS Zenbook UX325JA-EG114T,серый,55990,335940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-ux325ja-eg114t-i3-1005g1-8gb-ssd512gb-13-3-ips-f-1367029/
+685,ACER Aspire 5 A515-55-39SW,черный,35990,215940,4.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a515-55-39sw-15-6-ips-intel-core-i3-1005g1-1-2gg-1217599/
+686,HP ProBook 440 G7,серебристый,54990,329940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-probook-440-g7-i5-10210u-8gb-ssd256gb-14-uwva-fhd-dos3-0-1216425/
+687,HP ProBook 430 G7,серебристый,67990,407940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-probook-430-g7-i5-10210u-8gb-ssd256gb-13-3-uwva-fhd-w10pro6-1216419/
+688,LENOVO IdeaPad 5 14IIL05,синий,50990,305940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14iil05-i3-1005g1-8gb-ssd256gb-14-ips-fhd-w-1214819/
+689,Ноутбук-трансформер ASUS Zenbook Flip UX563FD-EZ067T,серый,96610,579660,,в 1 магазине,https://www.citilink.ru/product/transformer-asus-zenbook-ux563fd-ez067t-i5-10210u-8gb-ssd512gb-gtx-105-1210277/
+690,LENOVO IdeaPad 5 14IIL05,серый,45490,272940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14iil05-i3-1005g1-8gb-ssd512gb-14-ips-fhd-n-1209424/
+691,LENOVO IdeaPad L340-15API,серый,41000,246000,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15api-15-6-amd-ryzen-3-3200u-2-6ggc-8gb-10-1209180/
+692,LENOVO IdeaPad L340-15API,серый,49990,299940,4.0,в 7 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15api-15-6-amd-ryzen-5-3500u-2-1ggc-8gb-25-1209167/
+693,ACER Swift 3 SF313-52-796K,серебристый,79990,479940,,в 2 магазинах,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf313-52-796k-13-5-ips-intel-core-i7-1065g7-1-3g-1206242/
+694,DELL XPS 13,серебристый,123210,739260,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-dell-xps-13-13-3-ips-intel-core-i7-10510u-1-8ggc-16gb-512gb-s-1180750/
+695,DELL Vostro 5391,серый,60990,365940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-vostro-5391-13-3-ips-intel-core-i5-10210u-1-6ggc-8gb-256g-1179738/
+696,LENOVO IdeaPad L340-15API,черный,41990,251940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15api-15-6-amd-ryzen-3-3200u-2-6ggc-8gb-25-1143946/
+697,LENOVO IdeaPad L340-15API,черный,42990,257940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-15api-15-6-amd-ryzen-3-3200u-2-6ggc-8gb-25-1143938/
+698,HP Pavilion Gaming 15-dk1049ur,черный,74990,449940,,в 4 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1049ur-i5-10300h-16gb-ssd512gb-gtx-165-1402290/
+699,HP 14s-fq0099ur,черный,24990,149940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-14s-fq0099ur-athlon-3020e-4gb-ssd128gb-14-ips-fhd-w10-black-1473246/
+700,ACER Aspire 5 A517-52-36K7,серебристый,50590,303540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a517-52-36k7-17-3-ips-intel-core-i3-1115g4-8gb-5-1439613/
+701,ACER Aspire 5 A517-52-3340,серебристый,51590,309540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-5-a517-52-3340-17-3-ips-intel-core-i3-1115g4-8gb-1-1439610/
+702,ASUS M515DA-BQ440T,серый,53990,323940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq440t-15-ips-amd-ryzen-5-3500u-16gb-1000-1454677/
+703,ASUS A516JA-BQ511T,серый,44990,269940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-bq511t-15-ips-intel-core-i3-1005g1-8gb-51-1454595/
+704,DELL Vostro 5402,серый,64430,386580,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5402-i5-1135g7-8gb-ssd512gb-14-fhd-w10-grey-1479895/
+705,DELL Vostro 3400,черный,47090,282540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-i3-1115g4-8gb-ssd256gb-14-fhd-w10-black-1478956/
+706,DELL Latitude 7420,серый,106810,640860,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-latitude-7420-i7-1165g7-16gb-ssd512gb-14-wva-fhd-w10pro-g-1494538/
+707,DELL Latitude 7420,серый,86880,521280,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-latitude-7420-i5-1135g7-8gb-ssd256gb-14-wva-fhd-w10pro-gr-1494535/
+708,DELL Latitude 7420,серый,73420,440520,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-latitude-7420-i5-1135g7-8gb-ssd256gb-14-wva-fhd-lin-grey-1494533/
+709,DELL Latitude 7420,серый,82660,495960,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-latitude-7420-i5-1135g7-16gb-ssd256gb-14-wva-fhd-lin-grey-1494532/
+710,DELL Latitude 7420,серый,96250,577500,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-latitude-7420-i5-1135g7-16gb-ssd256gb-14-wva-fhd-w10pro-g-1494522/
+711,Ноутбук-трансформер HP Spectre x360 13-aw0033ur,черный,105740,634440,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-x360-13-aw0033ur-i5-1035g4-8gb-ssd512gb-13-3-ips-to-1401596/
+712,ASUS A516JA-EJ679T,серый,36990,221940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-ej679t-15-intel-pentium-6805-8gb-256gb-ss-1455243/
+713,ASUS A516JA-EJ677T,серый,28990,173940,,в 22 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-ej677t-15-intel-pentium-6805-4gb-128gb-ss-1455241/
+714,ASUS A516JA-EJ678T,серый,30990,185940,,в 22 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-a516ja-ej678t-15-intel-pentium-6805-4gb-256gb-ss-1455240/
+715,ASUS M515DA-BQ207T,серый,52790,316740,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-m515da-bq207t-15-ips-amd-ryzen-5-3500u-16gb-512g-1454672/
+716,LENOVO V15-ADA,серый,27790,166740,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-v15-ada-3020e-4gb-ssd128gb-15-6-tn-fhd-dos-grey-1512505/
+717,DELL Latitude 7520,серый,158310,949860,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-latitude-7520-i7-1185g7-32gb-ssd1tb-15-6-wva-uhd-w10pro-g-1494586/
+718,HP EliteBook 850 G8,серебристый,100220,601320,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-elitebook-850-g8-15-6-intel-core-i5-1135g7-8gb-256gb-ssd-wi-1477443/
+719,HP EliteBook 835 G7,серебристый,100820,604920,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-elitebook-835-g7-13-3-amd-ryzen-7-pro-4750u-16gb-512gb-ssd-1477380/
+720,HP 14s-dq0043ur,белый,29490,176940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq0043ur-pen-n5030-4gb-ssd256gb-14-ips-fhd-w10-white-1474155/
+721,DIGMA EVE 15 C413,темно-серый,21990,131940,,в 49 магазинах,https://www.citilink.ru/product/noutbuk-digma-eve-15-s413-15-6-ips-intel-celeron-n3350-4gb-64gb-ssd-in-1456338/
+722,ASUS VivoBook X415MA-EK052,серый,24990,149940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-asus-vivobook-x415ma-ek052-14-intel-pentium-silver-n5030-1-1gg-1453241/
+723,HP 250 G8,серебристый,65250,391500,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-250-g8-15-6-intel-core-i5-1035g1-16gb-512gb-ssd-windows-10-1439017/
+724,HP 250 G8,серебристый,59880,359280,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-250-g8-15-6-intel-core-i5-1035g1-8gb-512gb-ssd-windows-10-p-1439007/
+725,HP 250 G8,серебристый,42010,252060,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-250-g8-15-6-intel-core-i3-1005g1-8gb-256gb-ssd-free-dos-3-0-1438975/
+726,LENOVO Thinkbook 15p IMH,серый,88190,529140,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-15p-imh-15-6-ips-intel-core-i5-10300h-2-5ggc-1424581/
+727,HP Pavilion Gaming 17-cd1051ur,черный/зеленый,79690,478140,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1051ur-i5-10300h-16gb-ssd512gb-gtx-165-1412353/
+728,LENOVO V15-ADA,серый,50990,305940,,в 21 магазине,https://www.citilink.ru/product/noutbuk-lenovo-v15-ada-ryzen-5-3500u-8gb-ssd512gb-vega-8-15-6-tn-fhd-w-1407182/
+729,DELL Latitude 3510,серый,53500,321000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-latitude-3510-i3-10110u-8gb-ssd256gb-620-15-6-fhd-w10pro-1383878/
+730,LENOVO V15-ADA,серый,28860,173160,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-v15-ada-3020e-4gb-ssd256gb-15-6-tn-fhd-dos-grey-1512508/
+731,Ноутбук-трансформер HP Spectre x360 13-aw2023ur,темно-синий,129990,779940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-x360-13-aw2023ur-13-3-intel-core-i5-1135g7-8gb-1000-1443773/
+732,ACER Aspire 3 A315-57G-53GX,черный,53990,323940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-57g-53gx-15-6-intel-core-i5-1035g1-8gb-1000-1438400/
+733,LENOVO V130-15IKB,темно-серый,35930,215580,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-v130-15ikb-i3-7020u-4gb-ssd128gb-dvdrw-620-15-6-tn-fhd-1413482/
+734,ACER Nitro 5 AN515-55-78DB,черный,90180,541080,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-78db-i7-10750h-16gb-ssd512gb-gtx-1650-4g-1409228/
+735,ACER Nitro 5 AN515-55-58XJ,черный,76240,457440,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-58xj-i5-10300h-8gb-ssd512gb-gtx-1650-4gb-1409199/
+736,ACER Nitro 5 AN515-55-77QU,черный,89990,539940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-77qu-i7-10750h-16gb-ssd512gb-gtx-1650-ti-1379688/
+737,IRBIS NB NB655,серебристый,23990,143940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-irbis-nb-nb655-pen-j3710-4gb-emmc128gb-13-5-ips-3k-w10pro-silv-1512589/
+738,ARK Jumper EZbook X3 AIR,коричневый,29990,179940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-ark-ezbook-x3-air-cel-n4100-8gb-ssd128gb-13-3-fhd-w10-brown-1489720/
+739,DELL Vostro 5502,серый,52770,316620,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-i5-1135g7-8gb-ssd256gb-15-6-fhd-lin-grey-1479912/
+740,HP Envy 14-eb0005ur,серебристый,129990,779940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-envy-14-eb0005ur-i7-1165g7-16gb-ssd1tb-gtx-1650-ti-4gb-14-i-1474237/
+741,HP ProBook 430 G8,серебристый,68770,412620,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-probook-430-g8-13-3-intel-core-i5-1135g7-8gb-256gb-ssd-wind-1439038/
+742,DELL G5 5505,серебристый,105380,632280,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5505-ryzen-7-4800h-16gb-ssd1tb-rx5600m-6gb-15-6-fhd-w1-1480187/
+743,DELL G5 5505,серебристый,84990,509940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5505-ryzen-5-4600h-8gb-ssd512gb-rx5600m-6gb-15-6-fhd-w-1480186/
+744,ACER ConceptD 3 CN315-72G-79N9,белый,195790,1174740,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-conceptd-3-cn315-72g-79n9-i7-10750h-16gb-ssd1tb-gtx-1650-1479361/
+745,ACER ConceptD 7 CN715-72G-758S,белый,362990,2177940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-conceptd-7-cn715-72g-758s-i7-10875h-32gb-ssd1tb-1tb-rtx-2-1479359/
+746,ACER ConceptD 7 Pro CN715-72P-79FY,белый,263990,1583940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-conceptd-7-pro-cn715-72p-79fy-i7-10875h-16gb-ssd512gb-rtx-1479357/
+747,ACER ConceptD 7 Pro CN715-72P-7811,белый,296990,1781940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-conceptd-7-pro-cn715-72p-7811-i7-10875h-32gb-ssd1tb-rtx-3-1479071/
+748,ACER ConceptD 7 Pro CN715-72P-75HQ,белый,439990,2639940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-conceptd-7-pro-cn715-72p-75hq-i7-10875h-32gb-ssd1tb-1tb-r-1479068/
+749,HP EliteBook 855 G7,серебристый,111900,671400,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-elitebook-855-g7-15-6-amd-ryzen-7-pro-4750u-8gb-256gb-ssd-w-1477329/
+750,HP EliteBook 850 G7,серебристый,126420,758520,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-elitebook-850-g7-15-6-intel-core-i7-10510u-16gb-512gb-ssd-w-1477324/
+751,HP 245 G8,серебристый,55760,334560,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-245-g8-14-amd-ryzen-5-3500u-16gb-512gb-ssd-windows-10-profe-1477014/
+752,HP 245 G8,серебристый,48900,293400,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-245-g8-14-amd-ryzen-5-3500u-8gb-256gb-ssd-windows-10-profes-1477013/
+753,HP 240 G8,черный,44540,267240,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-240-g8-14-intel-core-i5-1035g1-8gb-256gb-ssd-free-dos-3-0-2-1477000/
+754,DELL Vostro 3500,черный,37990,227940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-15-6-intel-core-i3-1115g4-8gb-256gb-ssd-intel-1476965/
+755,Ноутбук-трансформер LENOVO Yoga 7 14ITL5,серый,85280,511680,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-transformer-lenovo-yoga-7-14itl5-14-ips-intel-core-i5-1135g7-8-1473932/
+756,Ноутбук-трансформер LENOVO Yoga 7 14ITL5,темно-зеленый,85280,511680,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-transformer-lenovo-yoga-7-14itl5-14-ips-intel-core-i5-1135g7-8-1473931/
+757,DELL Vostro 3500,черный,45990,275940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-15-6-intel-core-i5-1135g7-4gb-1tb-ssd-intel-i-1461912/
+758,HP ProBook 430 G8,серебристый,83550,501300,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-probook-430-g8-13-3-intel-core-i7-1165g7-16gb-512gb-ssd-win-1439331/
+759,HP 250 G8,серебристый,72980,437880,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-250-g8-15-6-intel-core-i7-1065g7-16gb-512gb-ssd-windows-10-1439028/
+760,HP 240 G8,черный,35110,210660,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-240-g8-14-intel-core-i3-1005g1-8gb-256gb-ssd-free-dos-3-0-2-1438943/
+761,ACER Aspire 3 A314-22G-R1ZQ,черный,44990,269940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a314-22g-r1zq-14-amd-ryzen-5-3500u-8gb-256gb-ssd-1438028/
+762,ACER Aspire 3 A314-22G-R9Z1,черный,41490,248940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a314-22g-r9z1-14-amd-ryzen-3-3250u-8gb-256gb-ssd-1438008/
+763,Ноутбук-трансформер LENOVO Yoga 7 15ITL5,серый,89930,539580,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-transformer-lenovo-yoga-7-15itl5-15-6-intel-core-i5-1135g7-2-4-1424570/
+764,Ноутбук-трансформер LENOVO Yoga 7 15ITL5,темно-зеленый,89920,539520,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-transformer-lenovo-yoga-7-15itl5-15-6-intel-core-i5-1135g7-2-4-1424568/
+765,HP Pavilion Gaming 15-dk1038ur,черный,77990,467940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1038ur-i5-10300h-16gb-ssd512gb-gtx-165-1411064/
+766,Ноутбук-трансформер HP Pavilion x360 15-dq1000ur,серебристый,49990,299940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-x360-15-dq1000ur-i3-10110u-4gb-ssd256gb-15-6-ips-f-1411011/
+767,ACER Extensa 15 EX215-31-C1JG,черный,28380,170280,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-extensa-15-ex215-31-c1jg-15-6-intel-celeron-n4020-4gb-128-1395905/
+768,ACER Aspire 7 A715-41G-R914,черный,66690,400140,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-41g-r914-15-6-ips-amd-ryzen-7-3750h-2-3ggc-1217411/
+769,ACER TravelMate P2 TMP215-52-50UM,черный,66770,400620,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-travelmate-p2-tmp215-52-529s-15-6-ips-intel-core-i5-10210-1469239/
+770,ASUS Pro P3540FA-BQ1073R,серый,66990,401940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p3540fa-bq1073r-15-6-intel-core-i5-8265u-8gb-512gb-ss-1464437/
+771,HP Pavilion Gaming 15-dk1095ur,черный,66990,401940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1095ur-15-6-ips-intel-core-i5-10300h-8-1457538/
+772,DELL G3 3500,черный,66990,401940,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-dell-g3-3500-15-6-intel-core-i5-10300h-8gb-512gb-ssd-nvidia-ge-1449498/
+773,HP Pavilion 15-eg0055ur,серебристый,66990,401940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-15-eg0055ur-15-6-ips-intel-core-i5-1135g7-8gb-512g-1442233/
+774,HP ProBook 440 G7,серебристый,66990,401940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-probook-440-g7-i5-10210u-8gb-ssd256gb-14-uwva-fhd-w10pro64-1400353/
+775,Ноутбук-трансформер HP Envy x360 15-ee0006ur,темно-серый,66990,401940,4.5,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-envy-x360-15-ee0006ur-ryzen-5-4500u-16gb-ssd512gb-15-6-ips-1382685/
+776,HP ProBook 430 G7,серебристый,66990,401940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-probook-430-g7-i5-10210u-8gb-ssd256gb-13-3-uwva-fhd-w10pro6-1375780/
+777,HP Pavilion Gaming 15-ec1019ur,черный,66990,401940,5.0,в 9 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-ec1019ur-ryzen-5-4600h-16gb-ssd512gb-gtx-1375031/
+778,ACER Nitro 5 AN515-55-547E,черный,66990,401940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-547e-i5-10300h-8gb-ssd512gb-gtx-1650-ti-1372672/
+779,ACER Aspire 3 A317-52-75J0,черный,66990,401940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-75j0-i7-1065g7-8gb-ssd512gb-17-3-ips-fhd-1372373/
+780,LENOVO ThinkPad E14-IML T,черный,66990,401940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-thinkpad-e14-iml-t-14-ips-intel-core-i5-10210u-1-6ggc-1-1196211/
+781,DELL Vostro 3500,черный,67000,402000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-14-intel-core-i5-1135g7-8gb-256gb-ssd-nvidia-1445972/
+782,ACER Aspire 7 A715-41G-R6B9,черный,67290,403740,4.8,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-41g-r6b9-15-6-ips-amd-ryzen-7-3750h-2-3ggc-1217416/
+783,ASUS Pro P5440FA-BM0234T,серый,67390,404340,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-pro-p5440fa-bm0234t-14-intel-core-i5-8265u-1-6ggc-8gb-256-1191372/
+784,DELL Vostro 5301,золотистый,67570,405420,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5301-13-3-intel-core-i5-1135g7-8gb-256gb-ssd-intel-1437918/
+785,LENOVO IP Gaming 3 15IMH05,синий,67590,405540,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-ip-gaming-3-15imh05-i5-10300h-8gb-ssd512gb-gtx-1650-ti-1373907/
+786,DELL Vostro 3400,черный,67770,406620,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i5-1135g7-8gb-512gb-ssd-nvidia-1445964/
+787,MSI GF63 Thin 9SCSR-1027XRU,черный,67790,406740,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scsr-i5-9300h-8gb-1tb-ssd128gb-gtx-1650-ti-max-1403720/
+788,ACER Extensa 15 EX215-53G-74HA,черный,67820,406920,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-extensa-15-ex215-53g-74ha-i7-1065g7-8gb-ssd512gb-mx330-2g-1415361/
+789,ACER Aspire 7 A715-75G-54RY,черный,67990,407940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-54ry-15-6-ips-intel-core-i5-10300h-8gb-1449613/
+790,LENOVO ThinkPad L13  G2,черный,67990,407940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-thinkpad-l13-g2-13-3-ips-intel-core-i3-1115g4-3-0ggc-8g-1427685/
+791,LENOVO Thinkbook 13s G2 ITL,серый,67990,407940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-13s-g2-itl-13-3-intel-core-i5-1135g7-2-4ggc-8-1424546/
+792,LENOVO IdeaPad 5 14ITL05,серый,67990,407940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip-5-14itl05-i5-1135g7-16gb-ssd512gb-14-ips-fhd-1416408/
+793,ASUS Zenbook UM425IA-AM007T,серый,67990,407940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-zenbook-um425ia-am007t-ryzen-7-4700u-8gb-ssd512gb-14-fhd-1416090/
+794,HP ProBook 430 G7,серебристый,67990,407940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-probook-430-g7-i5-10210u-8gb-ssd256gb-13-3-uwva-fhd-w10pro6-1404073/
+795,ASUS Pro P5440FA-BM1029R,серый,67990,407940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-expertbook-p5440fa-bm1029r-i5-8265u-8gb-ssd512gb-620-14-f-1375438/
+796,ACER Aspire 3 A317-52-79GB,черный,67990,407940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a317-52-79gb-i7-1065g7-8gb-1tb-ssd256gb-17-3-ips-1372368/
+797,ASUS Zenbook UX325JA-EG035T,серый,67990,407940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-ux325ja-eg035t-i5-1035g1-8gb-ssd512gb-13-3-ips-f-1367028/
+798,ACER Aspire 7 A715-75G-74Z8,черный,67990,407940,5.0,в 8 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-74z8-15-6-ips-intel-core-i7-9750h-2-6gg-1217399/
+799,HP ProBook 430 G7,серебристый,67990,407940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-probook-430-g7-i5-10210u-8gb-ssd256gb-13-3-uwva-fhd-w10pro6-1216419/
+800,DELL Inspiron 3793,черный,67990,407940,4.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-inspiron-3793-17-3-ips-intel-core-i5-1035g1-1-0ggc-8gb-25-1179882/
+801,LENOVO IdeaPad L340-17API,черный,67990,407940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-l340-17api-17-3-amd-ryzen-7-3700u-2-3ggc-8gb-10-1144711/
+802,HP ProBook 430 G7,серебристый,68070,408420,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-probook-430-g7-i7-10510u-8gb-ssd512gb-13-3-uwva-fhd-dos3-0-1404093/
+803,ASUS Pro P1440FA-FA2782R,черный,68250,409500,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-x509ja-ej025-i3-1005g1-4gb-ssd256gb-15-6-fhd-end-1411582/
+804,LENOVO Thinkbook 15p IMH,серый,68290,409740,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-15p-imh-15-6-ips-intel-core-i5-10300h-2-5ggc-1424575/
+805,LENOVO Thinkbook 15 G2 ARE,серый,68380,410280,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-15-g2-are-15-6-amd-ryzen-7-4700u-2-0ggc-8gb-5-1424473/
+806,HP 250 G8,серебристый,68420,410520,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-250-g8-15-6-intel-core-i7-1065g7-8gb-256gb-ssd-windows-10-p-1439021/
+807,LENOVO ThinkPad L13 G2,черный,68670,412020,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-thinkpad-l13-g2-13-3-ips-intel-core-i5-1135g7-2-4ggc-8g-1427678/
+808,DELL Vostro 5502,золотистый,68760,412560,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i5-1135g7-8gb-512gb-ssd-nvidi-1461933/
+809,HP ProBook 430 G8,серебристый,68770,412620,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-probook-430-g8-13-3-intel-core-i5-1135g7-8gb-256gb-ssd-wind-1439038/
+810,DELL Vostro 3400,черный,68990,413940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i7-1165g7-8gb-512gb-ssd-nvidia-1452048/
+811,HP Pavilion Gaming 16-a0046ur,черный/зеленый,68990,413940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-16-a0046ur-16-1-ips-intel-core-i5-10300h-8g-1443451/
+812,HP Pavilion 13-bb0021ur,золотистый,68990,413940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-13-bb0021ur-13-3-ips-intel-core-i5-1135g7-16gb-512-1440959/
+813,DELL Vostro 5502,серый,69190,415140,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i5-1135g7-8gb-512gb-ssd-nvidi-1461921/
+814,LENOVO V15-IIL,серый,69350,416100,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-v15-iil-i7-1065g7-8gb-ssd256gb-620-15-6-tn-fhd-w10pro-d-1373833/
+815,LENOVO Thinkbook 13s-IML,серый,69390,416340,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-13s-iml-13-3-ips-intel-core-i5-10210u-1-6ggc-1186800/
+816,ASUS Pro P1440FA-FQ2924,серый,34190,205140,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p1440fa-fq2924-14-intel-core-i3-10110u-4gb-1000gb-ssd-1464446/
+817,ASUS Pro P3540FA-BQ1073R,серый,66990,401940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p3540fa-bq1073r-15-6-intel-core-i5-8265u-8gb-512gb-ss-1464437/
+818,ASUS Pro P3540FA-BQ1249,серый,64990,389940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-pro-p3540fa-bq1249-15-6-intel-core-i7-8565u-8gb-512gb-ssd-1464434/
+819,ASUS Pro P3540FA-BQ1073,серый,54990,329940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p3540fa-bq1073-15-6-intel-core-i5-8265u-8gb-512gb-ssd-1464430/
+820,ASUS Pro P2540FA-DM0832,черный,59990,359940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-pro-p2540fa-dm0832-15-6-intel-core-i7-10510u-8gb-512gb-ss-1464417/
+821,ASUS Expertbook P2451FA-EB1355R,черный,54990,329940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-expertbook-p2451fa-eb1355r-14-ips-intel-core-i3-10110u-8g-1464410/
+822,ASUS Pro P1440FA-FQ2931T,серый,41590,249540,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-pro-p1440fa-fq2931t-14-intel-core-i3-10110u-8gb-256gb-ssd-1462948/
+823,ASUS Pro P1440FA-FQ2924T,серый,39190,235140,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p1440fa-fq2924t-14-intel-core-i3-10110u-4gb-1000gb-ss-1462946/
+824,ASUS Pro P1440FA-FQ3043,серый,35990,215940,,в 18 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p1440fa-fq3043-14-intel-core-i3-10110u-8gb-256gb-ssd-1462943/
+825,ASUS Pro P1440FA-FQ3042,черный,34190,205140,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-asus-pro-p1440fa-fq3042-14-intel-core-i3-10110u-4gb-1000gb-ssd-1462942/
+826,DELL Vostro 5502,серый,81390,488340,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i7-1165g7-16gb-512gb-ssd-nvid-1461946/
+827,DELL Vostro 5502,золотистый,68760,412560,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i5-1135g7-8gb-512gb-ssd-nvidi-1461933/
+828,DELL Vostro 5502,золотистый,64900,389400,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i5-1135g7-8gb-512gb-ssd-intel-1461931/
+829,DELL Vostro 5502,золотистый,58990,353940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i5-1135g7-8gb-256gb-ssd-intel-1461929/
+830,DELL Vostro 5502,золотистый,61400,368400,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i5-1135g7-8gb-512gb-ssd-nvidi-1461928/
+831,DELL Vostro 5502,серый,64990,389940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i5-1135g7-8gb-512gb-ssd-intel-1461924/
+832,DELL Vostro 5502,серый,69190,415140,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i5-1135g7-8gb-512gb-ssd-nvidi-1461921/
+833,DELL Vostro 5502,серый,62000,372000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5502-15-6-intel-core-i5-1135g7-8gb-512gb-ssd-nvidi-1461916/
+834,DELL G5 5500,черный,89990,539940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5500-15-6-intel-core-i5-10300h-8gb-1tb-ssd-nvidia-gefo-1461241/
+835,DELL G5 5500,черный,69990,419940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5500-15-6-intel-core-i5-10300h-8gb-512gb-ssd-nvidia-ge-1461240/
+836,DELL G5 5500,черный,99990,599940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5500-15-6-intel-core-i7-10750h-16gb-512gb-ssd-nvidia-g-1461237/
+837,ASUS Pro P1440FA-FA2583R,черный,60990,365940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-pro-p1440fa-fa2583r-14-intel-core-i5-10210u-8gb-256gb-ssd-1460733/
+838,DELL XPS 13,серебристый,168780,1012680,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-dell-xps-13-9310-13-4-intel-core-i7-1185g7-16gb-1tb-ssd-intel-1460412/
+839,DELL G5 5500,черный,101860,611160,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5500-15-6-intel-core-i7-10750h-16gb-512gb-ssd-nvidia-g-1460131/
+840,DELL G5 5500,черный,80990,485940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5500-15-6-intel-core-i7-10750h-16gb-512gb-ssd-nvidia-g-1460128/
+841,DELL G5 5500,черный,84140,504840,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-g5-5500-15-6-intel-core-i5-10300h-8gb-512gb-ssd-nvidia-ge-1460127/
+842,DELL XPS 13,серебристый,152980,917880,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-dell-xps-13-9310-13-4-intel-core-i7-1185g7-16gb-1tb-ssd-intel-1459125/
+843,DELL XPS 13,серебристый,145730,874380,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-dell-xps-13-9310-13-4-intel-core-i7-1185g7-16gb-512gb-ssd-int-1459120/
+844,ACER Enduro N3 EN314-51W-34Y5,черный,106850,641100,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-enduro-n3-en314-51w-34y5-14-ips-intel-core-i3-10110u-8gb-1458554/
+845,HP 15-db1021ur/s,черный,44990,269940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-15-db1021ur-s-15-6-amd-ryzen-3-3200u-8gb-256gb-ssd-amd-rade-1458531/
+846,HP 15-db1203ur/s,черный,44990,269940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-db1203ur-s-15-6-amd-ryzen-3-3200u-8gb-512gb-ssd-amd-rade-1458529/
+847,HP 15-db1068ur/s,черный,52590,315540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-15-db1068ur-s-15-6-amd-ryzen-3-3200u-8gb-512gb-ssd-amd-rade-1458503/
+848,HP Pavilion Gaming 17-cd1087ur,черный/зеленый,81590,489540,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1087ur-17-3-ips-intel-core-i5-10300h-1-1457547/
+849,HP Pavilion Gaming 15-dk1093ur,черный,75990,455940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1093ur-15-6-ips-intel-core-i5-10300h-8-1457504/
+850,HP Pavilion Gaming 15-dk1062ur,черный,85990,515940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-15-dk1062ur-15-6-ips-intel-core-i5-10300h-1-1457488/
+851,ASUS Zenbook UX325EA-KG268T,серый,65990,395940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux325ea-kg268t-13-intel-core-i3-1115g4-8gb-512gb-1454763/
+852,ASUS Zenbook UX325EA-KG235T,серый,77990,467940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-ux325ea-kg235t-13-intel-core-i5-1135g7-8gb-512gb-1454751/
+853,ASUS Zenbook UX325EA-KG250T,светло-фиолетовый,77990,467940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-ux325ea-kg250t-13-intel-core-i5-1135g7-8gb-512gb-1454749/
+854,ACER Aspire 3 A315-42-R19S,черный,65990,395940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-3-a315-42-r19s-15-6-amd-ryzen-7-3700u-2-3ggc-12gb-1453763/
+855,DELL Vostro 5301,золотистый,58990,353940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5301-13-3-intel-core-i5-1135g7-8gb-512gb-ssd-intel-1453470/
+856,DELL Vostro 5301,золотистый,60990,365940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-vostro-5301-13-3-intel-core-i5-1135g7-8gb-256gb-ssd-intel-1453465/
+857,DELL Vostro 5301,золотистый,69990,419940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5301-13-3-intel-core-i7-1165g7-8gb-512gb-ssd-nvidi-1453461/
+858,DELL Vostro 5301,золотистый,84480,506880,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5301-13-3-intel-core-i7-1165g7-8gb-512gb-ssd-nvidi-1453458/
+859,LENOVO IdeaPad 5 15ARE05,серый,60890,365340,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-5-15are05-15-6-ips-amd-ryzen-5-4500u-16gb-256gb-1453404/
+860,ASUS VivoBook X415MA-EB215,серый,29990,179940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-vivobook-x415ma-eb215-14-intel-pentium-silver-n5030-4gb-5-1453301/
+861,ASUS Zenbook UX325EA-KG230T,серый,82030,492180,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux325ea-kg230t-13-3-ips-intel-core-i5-1135g7-8gb-1453246/
+862,DELL Vostro 3500,черный,54490,326940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-15-6-intel-core-i5-1135g7-8gb-256gb-ssd-intel-1452481/
+863,DELL Vostro 3500,черный,58060,348360,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-15-6-intel-core-i7-1165g7-8gb-512gb-ssd-intel-1452436/
+864,HP Pavilion Gaming 17-cd1012ur,черный/зеленый,70990,425940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1012ur-i5-10300h-8gb-ssd512gb-gtx-1650-1374979/
+865,ACER Swift 3 SF314-42-R3YT,серебристый,70990,425940,5.0,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-42-r3yt-ryzen-7-4700u-16gb-ssd1tb-14-ips-f-1374444/
+866,MSI GL65 Leopard 10SCXR-024XRU,черный,70990,425940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl65-leopard-10scxr-024xru-i5-10300h-8gb-ssd512gb-gtx-1650-1372085/
+867,ACER Swift 3 SF313-52-710G,серебристый,70990,425940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf313-52-710g-i7-1065g7-16gb-ssd512gb-13-5-ips-q-1218202/
+868,HP ProBook 450 G7,серебристый,70990,425940,,в 3 магазинах,https://www.citilink.ru/product/noutbuk-hp-probook-450-g7-i5-10210u-8gb-ssd256gb-15-6-uwva-fhd-w10pro6-1216431/
+869,HP ProBook 430 G7,серебристый,70990,425940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-probook-430-g7-i7-10510u-8gb-ssd256gb-13-3-uwva-fhd-w10pro6-1215043/
+870,ASUS Pro P5440FA-BM1318R,серый,71490,428940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-expertbook-p5440fa-bm1318r-14-intel-core-i5-8265u-8gb-512-1464440/
+871,HUAWEI MateBook D 16 HVY-WAP9,серый,71990,431940,,в 14 магазинах,https://www.citilink.ru/product/noutbuk-huawei-matebook-d-16-hvy-wap9-ryzen-5-4600h-8gb-ssd512gb-16-1-1484265/
+872,ASUS TUF Gaming FX506LH-HN197,серый,71990,431940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx506lh-hn197-15-6-intel-core-i5-10300h-2-5ggc-1473748/
+873,LENOVO Legion 5 15IMH05,черный,71990,431940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-legion-5-15imh05-i5-10300h-8gb-ssd512gb-gtx-1650-ti-4gb-1416387/
+874,ASUS VivoBook X571LI-BQ165,черный,71990,431940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-vivobook-x571li-bq165-i5-10300h-16gb-ssd512gb-gtx-1650-ti-1416055/
+875,HP Pavilion Gaming 17-cd1048ur,черный/зеленый,71990,431940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1048ur-i5-10300h-8gb-ssd512gb-gtx-1650-1412162/
+876,ACER Swift 3 SF313-52G-52XL,серебристый,71990,431940,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf313-52g-52xl-i5-1035g4-8gb-ssd512gb-mx350-2gb-1394533/
+877,LENOVO Thinkbook 13s-IML,серый,72030,432180,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-13s-iml-13-3-ips-intel-core-i7-10510u-1-8ggc-1186808/
+878,ACER Swift 3X SF314-510G-500R,синий,72290,433740,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-510g-500r-14-ips-intel-core-i5-1135g7-8gb-1440084/
+879,ACER TravelMate P2 TMP215-53-559N,черный,72950,437700,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-travelmate-p2-tmp215-53-559n-15-6-ips-intel-core-i5-1135g-1434679/
+880,HP 250 G8,серебристый,72980,437880,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-250-g8-15-6-intel-core-i7-1065g7-16gb-512gb-ssd-windows-10-1439028/
+881,ASUS TUF Gaming FX706LI-H7041,серый,72990,437940,5.0,в 8 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx706li-h7041-17-3-intel-core-i5-10300h-8gb-10-1473722/
+882,DELL Vostro 5501,золотистый,72990,437940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5501-i7-1065g7-8gb-ssd512gb-mx330-2gb-15-6-wva-fhd-1412389/
+883,DELL Vostro 5401,серый,72990,437940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-vostro-5401-i7-1065g7-8gb-ssd512gb-mx330-2gb-14-wva-fhd-w-1412272/
+884,DELL Vostro 5401,золотистый,72990,437940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5401-i7-1065g7-8gb-ssd512gb-mx330-2gb-14-wva-fhd-w-1412271/
+885,HP Pavilion Gaming 17-cd1013ur,черный/зеленый,72990,437940,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-17-cd1013ur-i5-10300h-8gb-1tb-gtx-1650-ti-4-1374978/
+886,LENOVO Thinkbook 15p IMH,серый,72990,437940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-15p-imh-15-6-ips-intel-core-i5-10300h-2-5ggc-1424578/
+887,DELL Vostro 5402,серый,73300,439800,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-5402-i7-1165g7-16gb-ssd512gb-mx330-2gb-14-fhd-lin-1479900/
+888,ACER Aspire 7 A715-75G-56X8,черный,73370,440220,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-56x8-i5-10300h-8gb-ssd512gb-gtx-1650-ti-1415381/
+889,LENOVO ThinkPad E15-ARE T Gen 2,черный,73410,440460,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkpad-e15-gen-2-are-t-ryzen-5-4500u-8gb-ssd512gb-15-1400364/
+890,DELL Latitude 7420,серый,73420,440520,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-latitude-7420-i5-1135g7-8gb-ssd256gb-14-wva-fhd-lin-grey-1494533/
+891,LENOVO IdeaPad 5 14ARE05,серый,73690,442140,5.0,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14are05-ryzen-7-4700u-16gb-ssd512gb-14-ips-1416366/
+892,HP ProBook 430 G7,серебристый,73690,442140,,в 6 магазинах,https://www.citilink.ru/product/noutbuk-hp-probook-430-g7-i5-10210u-16gb-ssd512gb-13-3-uwva-fhd-w10pro-1404095/
+893,LENOVO Thinkbook 15 G2 ITL,серый,73960,443760,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-15-g2-itl-15-6-intel-core-i5-1135g7-2-4ggc-16-1424243/
+894,LENOVO Thinkbook 15 G2 ITL,серый,73990,443940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkbook-15-g2-itl-15-6-intel-core-i7-1165g7-2-8ggc-8g-1424238/
+895,ASUS TUF Gaming FX706LI-H7009,серый,73990,443940,4.0,в 3 магазинах,https://www.citilink.ru/product/noutbuk-asus-tuf-gaming-fx706li-h7009-i5-10300h-8gb-ssd512gb-gtx-1650-1415435/
+896,ACER Nitro 5 AN515-55-77BZ,черный,73990,443940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-77bz-i7-10750h-8gb-ssd512gb-gtx-1650-4gb-1409230/
+897,Ноутбук-трансформер HP Envy x360 15-ee0002ur,темно-серый,73990,443940,5.0,в 8 магазинах,https://www.citilink.ru/product/noutbuk-hp-envy-x360-15-ee0002ur-ryzen-7-4700u-16gb-ssd512gb-15-6-ips-1382687/
+898,LENOVO IP Gaming 3 15ARH05,черный,73990,443940,5.0,в 15 магазинах,https://www.citilink.ru/product/noutbuk-lenovo-gaming-3-15arh05-ryzen-7-4800h-16gb-ssd512gb-gtx-1650-4-1377534/
+899,ACER Aspire 7 A715-75G-76LP,черный,73990,443940,4.8,в 3 магазинах,https://www.citilink.ru/product/noutbuk-acer-aspire-7-a715-75g-76lp-15-6-ips-intel-core-i7-9750h-2-6gg-1217388/
+900,ASUS Zenbook UX433FLC-A5230T,синий,74190,445140,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux433flc-a5230t-i5-10210u-8gb-ssd512gb-mx250-2gb-1376901/
+901,LENOVO V17-IIL,серый,74270,445620,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-v17-iil-i5-1035g1-8gb-ssd512gb-17-3-ips-fhd-w10pro-grey-1399894/
+902,HP Pavilion 14-dv0039ur,белый,74340,446040,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-x360-14-dv0039ur-14-ips-intel-core-i7-1165g7-8gb-5-1426764/
+903,ACER Nitro 5 AN515-55-73W5,черный,74490,446940,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-acer-nitro-5-an515-55-73w5-i7-10750h-8gb-ssd512gb-gtx-1650-4gb-1372671/
+904,MSI GL65 Leopard 10SCSR-020XRU,черный,74590,447540,5.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-msi-gl65-leopard-10scsr-020xru-i5-10300h-8gb-1tb-ssd128gb-gtx-1372083/
+905,LENOVO ThinkPad E15 Gen 2-ITU,черный,74780,448680,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkpad-e15-gen-2-itu-15-6-intel-core-i7-1165g7-2-8ggc-1428239/
+906,MSI GF63 Thin 9SCSR-1026XRU,черный,74890,449340,4.0,в 49 магазинах,https://www.citilink.ru/product/noutbuk-msi-gf63-thin-9scsr-dos-i7-9750h-8gb-ssd256gb-gtx-1650-ti-max-1403715/
+907,HP 17-by4000ur,серебристый,74990,449940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-17-by4000ur-17-3-ips-intel-core-i7-1165g7-16gb-512gb-ssd-in-1442322/
+908,HONOR MagicBook 15 2021,серый,74990,449940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-honor-magicbook-15-2021-i5-1135g7-16gb-ssd512gb-15-6-fhd-w10-1499422/
+909,LENOVO ThinkPad L13  G2,черный,74990,449940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-lenovo-thinkpad-l13-g2-13-3-ips-intel-core-i5-1135g7-2-4ggc-8g-1427706/
+910,LENOVO IdeaPad 5 14ITL05,серый,74990,449940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-ip5-14itl05-14-ips-intel-core-i5-1135g7-16gb-51-1427244/
+911,ACER Swift 3 SF314-59-782E,серебристый,74990,449940,,в 1 магазине,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-59-782e-i7-1165g7-16gb-ssd512gb-14-ips-fhd-1415934/
+912,DELL Vostro 3501,серый,41230,247380,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3501-15-6-intel-core-i3-1005g1-4gb-256gb-ssd-intel-1449361/
+913,DELL Vostro 3501,серый,35990,215940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3501-15-6-intel-core-i3-1005g1-4gb-256gb-ssd-intel-1449358/
+914,LENOVO IdeaPad S340-14IIL,синий,43990,263940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-lenovo-ideapad-s340-14iil-14-ips-intel-core-i3-1005g1-8gb-256g-1449340/
+915,APPLE MacBook Air M1,серый космос,164990,989940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-1tb-ssd-mac-os-z12500-1447988/
+916,DELL Vostro 3500,серый,70790,424740,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-14-intel-core-i7-1165g7-8gb-512gb-ssd-intel-i-1445982/
+917,DELL Vostro 3500,черный,66000,396000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-14-intel-core-i5-1135g7-8gb-512gb-ssd-intel-i-1445977/
+918,DELL Vostro 3500,черный,54860,329160,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-14-intel-core-i5-1135g7-8gb-256gb-ssd-intel-i-1445976/
+919,DELL Vostro 3500,черный,61000,366000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-14-intel-core-i5-1135g7-8gb-256gb-ssd-intel-i-1445975/
+920,DELL Vostro 3500,черный,53990,323940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-14-intel-core-i5-1135g7-8gb-256gb-ssd-nvidia-1445973/
+921,DELL Vostro 3500,черный,67000,402000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-14-intel-core-i5-1135g7-8gb-256gb-ssd-nvidia-1445972/
+922,DELL Vostro 3500,серый,75500,453000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3500-14-intel-core-i7-1165g7-8gb-512gb-ssd-nvidia-1445969/
+923,DELL Vostro 3400,черный,75310,451860,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i7-1165g7-8gb-512gb-ssd-nvidia-1445967/
+924,DELL Vostro 3400,черный,51950,311700,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i5-1135g7-8gb-256gb-ssd-nvidia-1445966/
+925,DELL Vostro 3400,черный,67770,406620,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i5-1135g7-8gb-512gb-ssd-nvidia-1445964/
+926,DELL Vostro 3400,черный,47440,284640,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i5-1135g7-8gb-256gb-ssd-intel-i-1445962/
+927,DELL Vostro 3400,черный,61000,366000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i5-1135g7-8gb-256gb-ssd-intel-i-1445961/
+928,DELL Vostro 3400,черный,45670,274020,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i5-1135g7-8gb-1000gb-intel-iris-1445960/
+929,DELL Vostro 3400,черный,59000,354000,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i5-1135g7-8gb-1000gb-intel-iris-1445958/
+930,DELL Vostro 3400,черный,54090,324540,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-vostro-3400-14-intel-core-i5-1135g7-8gb-1000gb-intel-iris-1445957/
+931,HP 15-db1274ur/s,черный,49990,299940,,в 2 магазинах,https://www.citilink.ru/product/noutbuk-hp-15-db1274ur-s-15-6-ips-amd-ryzen-5-3500u-8gb-512gb-ssd-amd-1445034/
+932,DELL Inspiron 7400,серебристый,111190,667140,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-inspiron-7400-14-5-intel-core-i7-1165g7-16gb-1tb-ssd-nvid-1443929/
+933,DELL Inspiron 7400,серебристый,103320,619920,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-dell-inspiron-7400-14-5-intel-core-i7-1165g7-16gb-512gb-ssd-nv-1443927/
+934,Ноутбук-трансформер HP Spectre x360 15-eb1004ur,черный,154990,929940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-15-eb1004ur-15-6-ips-intel-core-i7-1165g7-16gb-512g-1443909/
+935,Ноутбук-трансформер HP Spectre 15-eb1003ur,темно-синий,164990,989940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-15-eb1003ur-15-6-ips-intel-core-i7-1165g7-16gb-1000-1443906/
+936,HP Envy 13-ba1006ur,серебристый,79990,479940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-envy-x360-13-ba1006ur-13-3-ips-intel-core-i5-1135g7-8gb-512-1443891/
+937,HP Envy 13-ba1005ur,золотистый,84990,509940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-envy-x360-13-ba1005ur-13-3-ips-intel-core-i5-1135g7-16gb-51-1443886/
+938,Ноутбук-трансформер HP Spectre x360 13-aw2022ur,черный,144990,869940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-x360-13-aw2022ur-13-3-intel-core-i7-1165g7-16gb-512-1443797/
+939,Ноутбук-трансформер HP Spectre x360 13-aw2025ur,серебристый,117990,707940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-x360-13-aw2025ur-13-3-ips-intel-core-i5-1135g7-8gb-1443779/
+940,Ноутбук-трансформер HP Spectre x360 13-aw2024ur,черный,117990,707940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-spectre-x360-13-aw2024ur-13-3-ips-intel-core-i5-1135g7-8gb-1443777/
+941,HP Pavilion Gaming 16-a0046ur,черный/зеленый,68990,413940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-16-a0046ur-16-1-ips-intel-core-i5-10300h-8g-1443451/
+942,HP Pavilion Gaming 16-a0045ur,черный/зеленый,75990,455940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-16-a0045ur-16-1-ips-intel-core-i5-10300h-8g-1443449/
+943,ASUS Zenbook UX435EA-A5006T,серый,78990,473940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-asus-zenbook-ux435ea-a5006t-14-ips-intel-core-i5-1135g7-8gb-51-1443311/
+944,HP Pavilion Gaming 16-a0042ur,черный/зеленый,89990,539940,4.0,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-16-a0042ur-16-1-ips-intel-core-i7-10750h-16-1442293/
+945,HP Pavilion Gaming 16-a0036ur,черный/зеленый,84990,509940,,в 346 пунктов,https://www.citilink.ru/product/noutbuk-hp-pavilion-gaming-16-a0036ur-16-1-ips-intel-core-i5-10300h-16-1442275/
+946,HP 15s-fq2016ur,серый,42990,257940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-15s-fq2016ur-15-6-ips-intel-pentium-gold-7505-8gb-512gb-ssd-1442155/
+947,Ноутбук-трансформер HP Pavilion x360 14-dw1009ur,золотистый,85990,515940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-x360-14-dw1009ur-14-ips-intel-core-i7-1165g7-16gb-1441912/
+948,HP Pavilion 14-dv0034ur,золотистый,59990,359940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-14-dv0034ur-14-ips-intel-core-i5-1135g7-16gb-512gb-1441896/
+949,HP Pavilion 14-dv0033ur,розовый,59990,359940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-14-dv0033ur-14-ips-intel-core-i5-1135g7-8gb-256gb-1441894/
+950,HP 14s-dq2005ur,черный,42990,257940,5.0,в 4 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2005ur-14-ips-intel-pentium-gold-7505-8gb-512gb-ssd-i-1441871/
+951,HP 14s-dq2004ur,белый,42990,257940,,в 5 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2004ur-14-ips-intel-pentium-gold-7505-8gb-512gb-ssd-i-1441868/
+952,HP 14s-dq2008ur,черный,35990,215940,5.0,в 49 магазинах,https://www.citilink.ru/product/noutbuk-hp-14s-dq2008ur-14-ips-intel-pentium-gold-7505-4gb-256gb-ssd-i-1441689/
+953,HP Pavilion 13-bb0021ur,золотистый,68990,413940,,в 1 магазине,https://www.citilink.ru/product/noutbuk-hp-pavilion-13-bb0021ur-13-3-ips-intel-core-i5-1135g7-16gb-512-1440959/
+954,ACER Swift 3 SF314-59-591L,синий,65990,395940,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-59-591l-14-ips-intel-core-i5-1135g7-8gb-51-1440091/
+955,ACER Swift 3X SF314-510G-50HM,золотистый,79680,478080,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-510g-50hm-14-ips-intel-core-i5-1135g7-8gb-1440087/
+956,ACER Swift 3X SF314-510G-74N2,золотистый,95610,573660,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-510g-74n2-14-ips-intel-core-i7-1165g7-16gb-1440086/
+957,ACER Swift 3X SF314-510G-592W,синий,79700,478200,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-510g-592w-14-ips-intel-core-i5-1135g7-8gb-1440085/
+958,ACER Swift 3X SF314-510G-500R,синий,72290,433740,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-510g-500r-14-ips-intel-core-i5-1135g7-8gb-1440084/
+959,ACER Swift 3X SF314-510G-782K,синий,95610,573660,,в 346 пунктов,https://www.citilink.ru/product/ultrabuk-acer-swift-3-sf314-510g-782k-14-ips-intel-core-i7-1165g7-16gb-1440080/
