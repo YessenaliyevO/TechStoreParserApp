@@ -1,6 +1,6 @@
 # Tech Store Scraper GUI
 
-A Python desktop application that scrapes data from a tech store website and presents product information in a clean graphical user interface.
+A Python desktop application that scrapes data from a tech store website `https://www.citilink.ru` and presents product information in a clean graphical user interface.
 
 ## Features
 
@@ -15,7 +15,8 @@ A Python desktop application that scrapes data from a tech store website and pre
 - `BeautifulSoup4` + `requests` for web scraping
 - `Tkinter` for GUI
 - *(Optional: pandas, logging, fake_useragent)*
-## 🛠️ Setup
+
+## Setup
 
 ```bash
 git clone https://github.com/YessenaliyevO/TechPriceScraper-GUI.git
