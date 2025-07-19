@@ -107,19 +107,18 @@ main_urls = ['https://www.citilink.ru/catalog/noutbuki/', 'https://www.citilink.
     #print(name)
     #df.to_csv(name)
 
+#Uncomment this side so you can save the data 
 
 #df_comp = pd.DataFrame(start_parser('https://www.citilink.ru/catalog/kompyutery/'))
-# Меняешь ссылку и имя csv файла
 #df_comp.to_csv('kompyutery.csv')
 #print(df_comp)
 
+
 #df_nout = pd.DataFrame(start_parser('https://www.citilink.ru/catalog/noutbuki/'))
-# Меняешь ссылку и имя csv файла
 #df_nout.to_csv('noutbuki.csv')
 #print(df_nout)
 
 #df_mono = pd.DataFrame(start_parser('https://www.citilink.ru/catalog/monobloki/'))
-# Меняешь ссылку и имя csv файла
 #df_mono.to_csv('monobloki.csv')
 #print(df_mono)
 
@@ -129,11 +128,9 @@ main_urls = ['https://www.citilink.ru/catalog/noutbuki/', 'https://www.citilink.
 #print(df_ultra)
 
 #df_phone = pd.DataFrame(start_parser('https://www.citilink.ru/catalog/smartfony/'))
-# Меняешь ссылку и имя csv файла
 #df_phone.to_csv('smartfony.csv')
 #print(df_phone)
 
-df_plan = pd.DataFrame(start_parser('https://www.citilink.ru/catalog/planshety/'))
-# Меняешь ссылку и имя csv файла
-df_plan.to_csv('planshety.csv')
-print(df_plan)
+#df_plan = pd.DataFrame(start_parser('https://www.citilink.ru/catalog/planshety/'))
+#df_plan.to_csv('planshety.csv')
+#print(df_plan)
