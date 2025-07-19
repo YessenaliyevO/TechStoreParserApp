@@ -4,10 +4,10 @@ A Python desktop application that scrapes data from a tech store website `https:
 
 ## Features
 
-- 📦 Real-time scraping of hardware products (GPUs, CPUs, Monitors, etc.)
-- 🖥️ Graphical interface for displaying product info
-- 🔎 Search/filter capabilities *(optional)*
-- 💾 Export to CSV *(optional)*
+- Real-time scraping of hardware products (GPUs, CPUs, Monitors, etc.)
+- Graphical interface for displaying product info
+- Search/filter capabilities *(optional)*
+- Export to CSV *(optional)*
 
 ## Technologies Used
 
